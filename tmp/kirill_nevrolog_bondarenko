@@ -1,0 +1,1978 @@
+2016-04-04 19:36:20 wait until 2016-04-04 20:55:00 sec: 4720, 1459792500, 1459787780  sleep: 1.3111111111111
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/submit
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.980
+                curl    2  1.976
+          parseLogin    1  0.003
+          parseTimes    1  0.001
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.088
+                curl    1  0.087
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.112
+                curl    1  0.112
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.332
+                curl    1  0.332
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.083
+                curl    1  0.083
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.189
+                curl    1  0.189
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.096
+                curl    1  0.096
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.100
+                curl    1  0.100
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.143
+                curl    1  0.143
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.465
+                curl    1  0.465
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.092
+                curl    1  0.092
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.108
+                curl    1  0.108
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.080
+                curl    1  0.080
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.251
+                curl    1  0.251
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.097
+                curl    1  0.097
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.079
+                curl    1  0.079
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:19
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.231
+                curl    1  0.231
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.114
+                curl    1  0.114
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.087
+                curl    1  0.087
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.272
+                curl    1  0.272
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.090
+                curl    1  0.089
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.079
+                curl    1  0.079
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.296
+                curl    1  0.296
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.129
+                curl    1  0.129
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.089
+                curl    1  0.089
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.090
+                curl    1  0.090
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.489
+                curl    1  0.489
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.216
+                curl    1  0.216
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.105
+                curl    1  0.105
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.205
+                curl    1  0.205
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.084
+                curl    1  0.084
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.086
+                curl    1  0.086
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.112
+                curl    1  0.112
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.154
+                curl    1  0.154
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.376
+                curl    1  0.375
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.080
+                curl    1  0.080
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.101
+                curl    1  0.101
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.316
+                curl    1  0.315
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.140
+                curl    1  0.140
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.518
+                curl    1  1.518
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:19
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.733
+                curl    1  0.733
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.523
+                curl    1  0.523
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.336
+                curl    1  0.335
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.965
+                curl    1  0.965
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.493
+                curl    1  1.493
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.899
+                curl    1  1.899
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.997
+                curl    1  1.997
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.648
+                curl    1  1.648
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.275
+                curl    1  2.275
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.189
+                curl    1  2.188
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.714
+                curl    1  2.714
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  3.453
+                curl    1  3.453
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.445
+                curl    1  2.445
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  3.668
+                curl    1  3.668
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.011
+                curl    1  2.011
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.691
+                curl    1  2.691
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  3.214
+                curl    1  3.214
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  3.854
+                curl    1  3.854
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  3.601
+                curl    1  3.601
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.244
+                curl    1  2.243
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.948
+                curl    1  1.948
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.019
+                curl    1  0.018
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  3.746
+                curl    2  3.743
+          parseTimes    1  0.000
+    parseCreateVisit    1  0.002
+
+Something wrong with it: UNKNOWN
+
+Errors: Array
+(
+    [times] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+)
+Status: UNKNOWN, Next Run: 2016-04-04 21:00:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  0.031
+                curl    2  0.031
+          parseTimes    1  0.000
+    parseCreateVisit    1  0.000
+
+Something wrong with it: ERROR LOADING
+
+Errors: Array
+(
+    [times] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+    [create_visit] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+)
+Status: ERROR LOADING, Next Run: 2016-04-04 21:00:19
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  2.778
+                curl    2  2.777
+          parseTimes    1  0.000
+    parseCreateVisit    1  0.000
+
+Something wrong with it: UNKNOWN
+
+Errors: Array
+(
+    [times] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+    [create_visit] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+)
+Status: UNKNOWN, Next Run: 2016-04-04 21:00:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  2.339
+                curl    2  2.339
+          parseTimes    1  0.000
+    parseCreateVisit    1  0.000
+
+Something wrong with it: UNKNOWN
+
+Errors: Array
+(
+    [times] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+    [create_visit] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+)
+Status: UNKNOWN, Next Run: 2016-04-04 21:00:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  1.376
+                curl    2  1.375
+          parseTimes    1  0.001
+    parseCreateVisit    1  0.000
+
+Something wrong with it: UNKNOWN
+
+Errors: Array
+(
+    [times] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+    [create_visit] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+)
+Status: UNKNOWN, Next Run: 2016-04-04 21:00:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.762
+                curl    1  1.762
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.015
+                curl    1  0.015
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  2.639
+                curl    2  2.638
+          parseTimes    1  0.000
+    parseCreateVisit    1  0.000
+
+Something wrong with it: UNKNOWN
+
+Errors: Array
+(
+    [times] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+    [create_visit] => No timeId: create_visit not sended
+)
+Status: UNKNOWN, Next Run: 2016-04-04 21:00:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  0.987
+                curl    2  0.986
+          parseTimes    1  0.000
+    parseCreateVisit    1  0.000
+
+Something wrong with it: UNKNOWN
+
+Errors: Array
+(
+    [times] => <!DOCTYPE html>
+<html class="no-js"><!--<![endif]-->
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
+
+  <meta http-equiv="cleartype" content="on">
+  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
+  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta itemprop="name" content="Страница не существует">
+  <meta itemprop="description" content="Страница не существует">
+  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
+
+  <meta id="metaViewport" name="viewport" content="width=device-width">
+
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
+  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
+</head>
+<body>
+<div class="bg-portal"></div>
+<!--[if lt IE 9]>
+<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
+  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
+    браузер</a>,
+  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
+<![endif]-->
+
+<div class="wrapper bg height-lock width-lock">
+  <section class="section main width-lock">
+    <div class="row-fluid vertical">
+      <div class="bxLogo">
+        <a class="logo" href="/">
+          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
+        </a>
+      </div>
+
+      <div class="container-fluid-outer">
+        <div class="container-fluid container-fluid__inline">
+          <!-- pubstatic -->
+          <div class="g-error">
+
+            <div class="g-error-title">
+              <p class="g-error-title-text">Портал услуг временно недоступен</p>
+            </div>
+
+            <div class="g-error-text">
+              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
+                <br />Приносим свои извинения за доставленные неудобства.<br/>
+                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
+                <a href="#" onclick="history.back(-1);return false;">назад</a>.
+              </p>
+            </div>
+
+            <div class="g-error-action">
+              <a class="btn btn-danger" href="/">перейти на главную</a>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="container-fluid container-fluid__ad g-firstclass">
+          <div class="g-tile g-firstclass-tile">
+            <div class="g-tile-box g-tile-front g-tile--img-full">
+              <div class="g-tile-img-outer">
+                <img class="g-tile-img" width="100%"
+                     src="images/sunshine/firstclass.jpg"
+                     alt="Запись в первый класс">
+              </div>
+              <div class="g-tile-inner">
+                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
+                <span class="g-tile-separator line"></span>
+                <!--<span>Это займет всего несколько минут</span>-->
+              </div>
+              <div class="g-tile-footer">
+                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+</div>
+
+
+</body>
+</html>
+
+    [create_visit] => No timeId: create_visit not sended
+)
+Status: UNKNOWN, Next Run: 2016-04-04 21:00:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.651
+                curl    1  0.651
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.776
+                curl    1  0.775
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.420
+                curl    1  0.420
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.088
+                curl    1  0.088
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.174
+                curl    1  0.174
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.908
+                curl    1  1.908
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.202
+                curl    1  0.202
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.230
+                curl    1  0.230
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.076
+                curl    1  0.076
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.109
+                curl    1  0.108
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.120
+                curl    1  0.119
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.247
+                curl    1  0.247
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.236
+                curl    1  0.236
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.102
+                curl    1  0.102
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.518
+                curl    1  0.518
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.544
+                curl    1  0.544
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.236
+                curl    1  0.236
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.221
+                curl    1  0.220
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.193
+                curl    1  0.193
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.099
+                curl    1  0.098
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.122
+                curl    1  0.122
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.413
+                curl    1  0.413
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  3.514
+                curl    1  3.514
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  2.505
+                curl    1  2.504
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  1.286
+                curl    1  1.285
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.899
+                curl    1  0.899
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.102
+                curl    1  0.101
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.121
+                curl    1  0.120
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.196
+                curl    1  0.196
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.143
+                curl    1  0.143
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.655
+                curl    1  0.654
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.113
+                curl    1  0.112
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.127
+                curl    1  0.126
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.103
+                curl    1  0.103
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.091
+                curl    1  0.090
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.117
+                curl    1  0.116
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.130
+                curl    1  0.130
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.283
+                curl    1  0.283
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.289
+                curl    1  0.289
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.320
+                curl    1  0.320
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.211
+                curl    1  0.211
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.137
+                curl    1  0.137
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.115
+                curl    1  0.114
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.128
+                curl    1  0.127
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.111
+                curl    1  0.110
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.090
+                curl    1  0.089
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.270
+                curl    1  0.269
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.149
+                curl    1  0.149
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.319
+                curl    1  0.319
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.179
+                curl    1  0.179
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/submit
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.357
+                curl    2  0.357
+          parseLogin    1  0.000
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.092
+                curl    1  0.092
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.104
+                curl    1  0.104
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.117
+                curl    1  0.116
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.084
+                curl    1  0.084
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.193
+                curl    1  0.192
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.094
+                curl    1  0.094
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.102
+                curl    1  0.102
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.156
+                curl    1  0.155
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.088
+                curl    1  0.088
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.075
+                curl    1  0.075
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.209
+                curl    1  0.209
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.259
+                curl    1  0.258
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.282
+                curl    1  0.282
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.203
+                curl    1  0.202
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.190
+                curl    1  0.190
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.092
+                curl    1  0.092
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.101
+                curl    1  0.100
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.108
+                curl    1  0.108
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.105
+                curl    1  0.105
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.420
+                curl    1  0.420
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.091
+                curl    1  0.091
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.183
+                curl    1  0.183
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.091
+                curl    1  0.091
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.086
+                curl    1  0.085
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.251
+                curl    1  0.251
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1323/2016-04-18?scenery=1
+               total    1  0.121
+                curl    1  0.120
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:20

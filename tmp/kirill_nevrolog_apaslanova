@@ -1,0 +1,911 @@
+2016-04-04 19:35:52 wait until 2016-04-04 20:55:00 sec: 4748, 1459792500, 1459787752  sleep: 1.3188888888889
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/submit
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.112
+                curl    2  2.111
+          parseLogin    1  0.001
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.089
+                curl    1  0.089
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.133
+                curl    1  0.133
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.726
+                curl    1  0.726
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:19
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.083
+                curl    1  0.082
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.333
+                curl    1  0.332
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.097
+                curl    1  0.097
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.095
+                curl    1  0.095
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.143
+                curl    1  0.142
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.512
+                curl    1  0.512
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.075
+                curl    1  0.075
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.110
+                curl    1  0.110
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:55:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.079
+                curl    1  0.079
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.214
+                curl    1  0.214
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.103
+                curl    1  0.103
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:19
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.143
+                curl    1  0.142
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.142
+                curl    1  0.142
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.192
+                curl    1  0.192
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.106
+                curl    1  0.105
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.094
+                curl    1  0.094
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.101
+                curl    1  0.101
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.088
+                curl    1  0.088
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:56:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.205
+                curl    1  0.205
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.086
+                curl    1  0.086
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.076
+                curl    1  0.076
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.489
+                curl    1  0.489
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.219
+                curl    1  0.219
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.097
+                curl    1  0.096
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.391
+                curl    1  0.391
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.089
+                curl    1  0.089
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.207
+                curl    1  0.207
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.169
+                curl    1  0.169
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.389
+                curl    1  0.389
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.101
+                curl    1  0.101
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:57:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.123
+                curl    1  0.123
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.219
+                curl    1  0.219
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.105
+                curl    1  0.105
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.518
+                curl    1  1.518
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:19
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.723
+                curl    1  0.723
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.520
+                curl    1  0.520
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.336
+                curl    1  0.336
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.964
+                curl    1  0.964
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.546
+                curl    1  1.546
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.905
+                curl    1  1.905
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.018
+                curl    1  2.018
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.694
+                curl    1  1.694
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:58:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.276
+                curl    1  2.276
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.187
+                curl    1  2.187
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.715
+                curl    1  2.715
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  3.453
+                curl    1  3.453
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.444
+                curl    1  2.444
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  3.587
+                curl    1  3.587
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.963
+                curl    1  1.963
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.691
+                curl    1  2.691
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  3.215
+                curl    1  3.215
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  3.855
+                curl    1  3.855
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  3.560
+                curl    1  3.560
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.017
+                curl    1  0.017
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 20:59:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.014
+                curl    1  0.014
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.017
+                curl    1  0.017
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.691
+                curl    1  1.691
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.598
+                curl    1  1.598
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:19
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.504
+                curl    1  1.504
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.322
+                curl    1  1.322
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.620
+                curl    1  0.620
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:34
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.832
+                curl    1  1.832
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.010
+                curl    1  0.010
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:44
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.380
+                curl    1  1.380
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.638
+                curl    1  0.638
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.659
+                curl    1  0.659
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:00:59
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.983
+                curl    1  0.982
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.418
+                curl    1  0.418
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.127
+                curl    1  0.126
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.433
+                curl    1  0.433
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.907
+                curl    1  1.907
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:24
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.274
+                curl    1  0.274
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.284
+                curl    1  0.284
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:39
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.225
+                curl    1  0.225
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.114
+                curl    1  0.114
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.260
+                curl    1  0.260
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:01:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.238
+                curl    1  0.238
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.102
+                curl    1  0.102
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.617
+                curl    1  0.617
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:09
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.528
+                curl    1  0.527
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:14
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.176
+                curl    1  0.176
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.291
+                curl    1  0.291
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.193
+                curl    1  0.193
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.084
+                curl    1  0.084
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.283
+                curl    1  0.283
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  3.515
+                curl    1  3.514
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  2.503
+                curl    1  2.503
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:02:54
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.304
+                curl    1  1.304
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  1.000
+                curl    1  1.000
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:04
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.091
+                curl    1  0.091
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.121
+                curl    1  0.121
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.306
+                curl    1  0.306
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.141
+                curl    1  0.141
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.155
+                curl    1  0.154
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.202
+                curl    1  0.201
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.106
+                curl    1  0.106
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.110
+                curl    1  0.110
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.322
+                curl    1  0.322
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.079
+                curl    1  0.079
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:03:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.195
+                curl    1  0.195
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.112
+                curl    1  0.112
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.327
+                curl    1  0.327
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.131
+                curl    1  0.131
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.146
+                curl    1  0.146
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.235
+                curl    1  0.235
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.131
+                curl    1  0.131
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.110
+                curl    1  0.110
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.089
+                curl    1  0.089
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.261
+                curl    1  0.261
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.149
+                curl    1  0.149
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:04:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.304
+                curl    1  0.304
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.162
+                curl    1  0.161
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/submit
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.349
+                curl    2  0.348
+          parseLogin    1  0.001
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.092
+                curl    1  0.092
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.072
+                curl    1  0.072
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.128
+                curl    1  0.128
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.100
+                curl    1  0.100
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.181
+                curl    1  0.181
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.085
+                curl    1  0.085
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.091
+                curl    1  0.091
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.504
+                curl    1  0.504
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:49
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.095
+                curl    1  0.095
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:05:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.071
+                curl    1  0.071
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.202
+                curl    1  0.202
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.277
+                curl    1  0.277
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.222
+                curl    1  0.222
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.151
+                curl    1  0.151
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.168
+                curl    1  0.168
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.074
+                curl    1  0.074
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.096
+                curl    1  0.095
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.160
+                curl    1  0.160
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.091
+                curl    1  0.090
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.088
+                curl    1  0.088
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.301
+                curl    1  0.301
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:06:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.103
+                curl    1  0.103
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.446
+                curl    1  0.446
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.072
+                curl    1  0.072
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.249
+                curl    1  0.249
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.091
+                curl    1  0.091
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.084
+                curl    1  0.083
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.636
+                curl    1  0.636
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:29
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2529/2016-04-18?scenery=1
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME YET, Next Run: 2016-04-04 21:07:35
