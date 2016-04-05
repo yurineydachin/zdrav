@@ -1,13 +1,13 @@
 <?php
 //2529|Арасланова|Елена|Николаевна|||Неврологи|Неврология детской поликлиники|0901052|1063|2529
-define('TIME_FROM',       '2016-04-04 20:55:00',true);
-define('TIME_TO',         '2016-04-04 21:10:00',true);
+define('TIME_FROM',       '2016-04-05 20:58:00',true);
+define('TIME_TO',         '2016-04-05 21:02:00',true);
 define('EMAIL',           'yurineydachin@mail.ru',true);
 define('POLIS',           '141712440',true);
 define('BIRTHDAY',        '01.03.2016',true);
 define('LPU_CODE',        '0901052',true);
 define('DOCTOR',          '2529',true);
-define('DATE_APPINTMENT', '2016-04-18',true);
+define('DATE_APPINTMENT', '2016-04-19',true);
 define('SCENERY',         1,true);
 //define('DEBUG',           1,true);
 

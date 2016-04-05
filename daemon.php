@@ -44,12 +44,20 @@ while (true) {
     $profiler = TimeProfiler::instance();
     $pKey = $profiler->start(TimeProfiler::total);
 
-    $scanner->login();
     $status = $scanner->loadTimes();
     if ($status == ZdradScanner::STATUS_NO_AVAILABLE_TIME) {
         die("FAIL. We missed time!\n");
     }
-    $status = $scanner->createVisit();
+
+    list($timeId, $rangeTime) = $scanner->getTheBestTime();
+    if (is_numeric($timeId)) {
+        echo "Have found free time: " . $timeId . " in ranges:" . print_r($rangeTime, true) . "\n";
+        $scanner->login();
+        $status = $scanner->createVisit($timeId);
+    } else {
+        $res = $scanner->getResult();
+        echo "No time: " . print_r($res['times'], true) . "\n";
+    }
 
     $res = $scanner->getResult();
     //echo "\nResult: "; print_r($scanner->getResult());
@@ -71,7 +79,8 @@ while (true) {
         case ZdradScanner::STATUS_BUSY:
             $to_sleep = 0;
             break;
-        case ZdradScanner::STATUS_NO_TIME_YET:
+        case ZdradScanner::STATUS_TIME_NOT_OPENED:
+        case ZdradScanner::STATUS_NO_TIME:
             // try again later
             break;
         case ZdradScanner::STATUS_ERROR_LOADING:

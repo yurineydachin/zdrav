@@ -10,7 +10,8 @@ class ZdradScanner {
     const STATUS_COMPLETE          = "COMPLETE";
     const STATUS_ALREADY           = "ALREADY APPOINTMENT";
     const STATUS_BUSY              = 'TIME IS BUSY';
-    const STATUS_NO_TIME_YET       = 'NO TIME YET';
+    const STATUS_NO_TIME           = 'NO TIME';
+    const STATUS_TIME_NOT_OPENED   = 'TIME NOT OPENED';
     const STATUS_NO_AVAILABLE_TIME = 'NO AVAILABLE TIME';
     const STATUS_ERROR_LOADING     = 'ERROR LOADING';
     const STATUS_LOADING_OK        = 'LOADING OK';
@@ -43,7 +44,6 @@ class ZdradScanner {
     public $scenery  = 1;
     public $debug    = false;
 
-    protected $selectedTimeId;
     protected $IsAuthorized = false;
     protected $LastAuthorized = null;
 
@@ -52,10 +52,7 @@ class ZdradScanner {
     protected $proxy;
     protected $number = "";
     protected $res = array(
-        'times' => array(
-            'STATUS'          => 'UNKNOWN',
-            'last_authorized' => null,
-        ),
+        'times' => array(),
         'create_visit' => array(
             'STATUS' => 'UNKNOWN'
         ),
@@ -112,11 +109,16 @@ class ZdradScanner {
         $profiler = TimeProfiler::instance();
         $pKey = $profiler->start(TimeProfiler::total);
 
-        $this->login();
         $this->loadTimes();
-        //$this->saveEmail();
-        //$this->setLastStep();
-        $this->createVisit();
+
+        list($timeId, $timeRanges) = $this->getTheBestTime();
+        if (is_numeric($timeId))
+        {
+            //$this->saveEmail();
+            //$this->setLastStep();
+            $this->login();
+            $this->createVisit($timeId);
+        }
         echo "\nResult: "; print_r($this->res);
         echo "\nErrors: "; print_r($this->errors);
         echo "\nSTATUS: "; print_r($this->res['create_visit']['STATUS']);
@@ -128,7 +130,6 @@ class ZdradScanner {
 
     public function loadTimes()
     {
-        $this->selectedTimeId = null;
         $url = sprintf(self::DOCTOR_APPOINTMENT_URL, self::DOMAIN_URL, $this->lpuCode, $this->doctor, $this->date, $this->scenery);
 
         $profiler = TimeProfiler::instance();
@@ -146,15 +147,17 @@ class ZdradScanner {
         $profiler = TimeProfiler::instance();
         $pKey = $profiler->start('parseTimes');
 
-        if (! $page || ! ($json = json_decode($page, true)) || ! isset($json['timeItems'])) {
+        if (! $page || ! ($json = json_decode($page, true)) || !isset($json['timeItems']) || !isset($json['date'])) {
             $this->errors[$id] = $page;
-            return self::STATUS_NO_TIME_YET;
+            return self::STATUS_NO_TIME;
+        } elseif ($json['date'] != $this->date) {
+            return self::STATUS_TIME_NOT_OPENED;
         }
 
         $availableTimes = array();
         foreach ($json['timeItems'] as $timeData)
         {
-            if (! empty($timeData['attrs']['PosID']) && empty($timeData['attrs']['BusyFlag']) && !empty($timeData['time'])) {
+            if (! empty($timeData['attrs']['PosID']) && empty($timeData['attrs']['BusyFlag']) && !empty($timeData['time']) && !empty($timeData['attrs']['FlagAccess'])) {
                 $availableTimes[$timeData['attrs']['PosID']] = $timeData['time'];
             }
         }
@@ -214,13 +217,15 @@ class ZdradScanner {
         return self::STATUS_LOADING_OK;
     }
 
-    public function getTheBestTime($times)
+    public function getTheBestTime($times = null)
     {
-        if ($this->selectedTimeId) {
-            return array($this->selectedTimeId, array());
+        if (is_null($times) || count($times) === 0) {
+            if (empty($this->res['times']) || count($this->res['times']) == 0) {
+                return array(null, array());
+            }
+            $times = $this->res['times'];
         }
 
-        $this->selectedTimeId = null;
         $groups = array();
         foreach ($this->timePriority as $groupId)
         {
@@ -237,34 +242,27 @@ class ZdradScanner {
                 }
             }
         }
-        foreach ($groups as $times) {
+        foreach ($groups as $groupTimes) {
             if (count($times) > 0) {
-                $this->selectedTimeId = $this->getRandomTimeId($times);
-                break;
+                return array($this->getRandomTimeId($groupTimes), $groups);
             }
         }
-        return array($this->selectedTimeId, $groups);
+        return array(null, $groups);
     }
 
     private function getRandomTimeId($times)
     {
-        return array_rand(array_keys($times));
+        return array_rand($times);
     }
 
-    public function createVisit()
+    public function createVisit($timeId)
     {
         $id = 'create_visit';
         $this->res[$id] = array('STATUS' => self::STATUS_UNKNOWN);
 
-        if (empty($this->res['times']) || count($this->res['times']) == 0) {
-            $this->res[$id]['STATUS'] = self::STATUS_NO_TIME_YET;
-            return $this->res[$id]['STATUS'];
-        }
-
-        list($timeId, $timeRanges) = $this->getTheBestTime($this->res['times']);
         if (empty($timeId)) {
             $this->errors[$id] = "No timeId: create_visit not sended";
-            $this->res[$id]['STATUS'] = self::STATUS_NO_TIME_YET;
+            $this->res[$id]['STATUS'] = self::STATUS_NO_TIME;
             return $this->res[$id]['STATUS'];
         }
         $url = sprintf(self::CREATE_VISIT_URL, self::DOMAIN_URL);
@@ -310,7 +308,6 @@ class ZdradScanner {
             $this->res[$id]['STATUS'] = self::STATUS_ALREADY;
         } elseif (strpos($json['items']['CreateVisitResult'], '<ErrorDescription>Выбранное время уже занято') !== false) {
             $this->res[$id]['STATUS'] = self::STATUS_BUSY;
-            $this->selectedTimeId = null;
         }
 
         $profiler->stop('parseCreateVisit', $pKey);
@@ -567,13 +564,13 @@ class ZdradScanner {
     public function setLastStep()
     {
         if (empty($this->res['times']) || count($this->res['times']) == 0) {
-            return self::STATUS_NO_TIME_YET;
+            return self::STATUS_NO_TIME;
         }
 
-        list($timeId, $timeRanges) = $this->getTheBestTime($this->res['times']);
+        list($timeId, $timeRanges) = $this->getTheBestTime();
         if (empty($timeId)) { 
             $this->errors['set_last_step'] = "No timeId: set_last_step not sended";
-            return self::STATUS_NO_TIME_YET;
+            return self::STATUS_NO_TIME;
         }
         $url = sprintf(self::SET_LAST_STEP_URL, self::DOMAIN_URL);
         $params = array(
