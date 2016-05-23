@@ -1,13 +1,13 @@
 <?php
 //3548|Дидыч|Игорь|Олегович|||Травматологи-ортопеды|Ортопедия детской поликлиники|0901052|1163|3548
-define('TIME_FROM',       '2016-05-20 20:58:00',true);
-define('TIME_TO',         '2016-05-20 21:02:00',true);
+define('TIME_FROM',       '2016-05-23 20:58:00',true);
+define('TIME_TO',         '2016-05-23 21:02:00',true);
 define('EMAIL',           'yurineydachin@mail.ru',true);
 define('POLIS',           '5096389748000313',true);
 define('BIRTHDAY',        '01.03.2016',true);
 define('LPU_CODE',        '0901052',true);
 define('DOCTOR',          '3548',true);
-define('DATE_APPINTMENT', '2016-06-03',true);
+define('DATE_APPINTMENT', '2016-06-06',true);
 define('SCENERY',         1,true);
 //define('DEBUG',           1,true);
 
