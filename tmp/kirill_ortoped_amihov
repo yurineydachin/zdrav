@@ -1,55 +1,25 @@
-2016-05-20 11:07:01 wait until 2016-05-20 20:58:00 sec: 35459, 1463767080, 1463731621  sleep: 9.8497222222222
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+2016-05-23 12:30:18 wait until 2016-05-23 20:58:00 sec: 30462, 1464026280, 1463995818  sleep: 8.4616666666667
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.053
-                curl    1  1.052
+               total    1  0.455
+                curl    1  0.455
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:06
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.068
-                curl    1  0.068
+               total    1  0.359
+                curl    1  0.359
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.062
-                curl    1  0.062
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.084
-                curl    1  0.084
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.079
-                curl    1  0.079
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
@@ -58,303 +28,8 @@ No time: Array
                 curl    1  0.066
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.228
-                curl    1  0.228
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.064
-                curl    1  0.064
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:40
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.066
-                curl    1  0.066
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.071
-                curl    1  0.071
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.068
-                curl    1  0.068
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:58:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.064
-                curl    1  0.064
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.117
-                curl    1  0.117
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.068
-                curl    1  0.068
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.181
-                curl    1  0.181
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.116
-                curl    1  0.116
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  1.389
-                curl    1  1.389
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  1.387
-                curl    1  1.387
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.065
-                curl    1  0.065
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.245
-                curl    1  0.245
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:40
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.320
-                curl    1  0.320
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.076
-                curl    1  0.076
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.082
-                curl    1  0.082
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 20:59:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.096
-                curl    1  0.096
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 21:00:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.063
-                curl    1  0.063
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 21:00:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.092
-                curl    1  0.092
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 21:00:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.296
-                curl    1  0.296
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 21:00:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.068
-                curl    1  0.068
-          parseTimes    1  0.000
-
-Status: TIME NOT OPENED, Next Run: 2016-05-20 21:00:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.072
-                curl    1  0.072
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:00:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.070
-                curl    1  0.070
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:00:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.072
-                curl    1  0.072
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:00:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.089
-                curl    1  0.089
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:00:40
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.066
-                curl    1  0.066
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:00:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
@@ -363,19 +38,254 @@ No time: Array
                 curl    1  0.074
           parseTimes    1  0.000
 
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:00:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.123
-                curl    1  0.122
+               total    1  0.269
+                curl    1  0.269
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  1.741
+                curl    1  1.740
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.065
+                curl    1  0.064
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.095
+                curl    1  0.094
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.185
+                curl    1  0.185
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.098
+                curl    1  0.098
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.063
+                curl    1  0.063
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:58:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.359
+                curl    1  0.359
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.521
+                curl    1  0.521
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.154
+                curl    1  0.154
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.742
+                curl    1  0.742
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  1.952
+                curl    1  1.952
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  2.864
+                curl    1  2.864
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  1.139
+                curl    1  1.139
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  2.342
+                curl    1  2.342
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  4.358
+                curl    1  4.358
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  3.475
+                curl    1  3.475
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:46
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.842
+                curl    1  0.842
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  2.300
+                curl    1  2.300
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 20:59:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  3.477
+                curl    1  3.477
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 21:00:01
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  2.267
+                curl    1  2.267
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 21:00:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  2.254
+                curl    1  2.254
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 21:00:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  3.771
+                curl    1  3.770
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 21:00:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  3.871
+                curl    1  3.871
+          parseTimes    1  0.000
+
+Status: TIME NOT OPENED, Next Run: 2016-05-23 21:00:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  5.087
+                curl    1  5.087
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -383,8 +293,98 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:00:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:00:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  1.095
+                curl    1  1.095
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:00:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.066
+                curl    1  0.066
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:00:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.109
+                curl    1  0.109
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:00:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.064
+                curl    1  0.064
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:00:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:00:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.289
+                curl    1  0.289
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:00:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
@@ -398,14 +398,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.117
-                curl    1  0.117
+               total    1  0.266
+                curl    1  0.265
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -413,14 +413,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.101
-                curl    1  0.101
+               total    1  0.940
+                curl    1  0.940
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -428,14 +428,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.085
-                curl    1  0.085
+               total    1  0.571
+                curl    1  0.571
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -443,14 +443,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.329
-                curl    1  0.329
+               total    1  0.100
+                curl    1  0.100
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -458,14 +458,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:20
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.079
-                curl    1  0.078
+               total    1  0.287
+                curl    1  0.287
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -473,14 +473,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:25
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.071
-                curl    1  0.071
+               total    1  0.086
+                curl    1  0.086
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -488,14 +488,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.110
-                curl    1  0.110
+               total    1  0.125
+                curl    1  0.125
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -503,88 +503,13 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:01:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.066
-                curl    1  0.066
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:01:40
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.069
-                curl    1  0.069
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:01:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.215
-                curl    1  0.215
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:01:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.073
-                curl    1  0.073
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:01:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.069
-                curl    1  0.069
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-)
-Status: LOADING OK, Next Run: 2016-05-20 21:02:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
-No time: Array
-(
-)
-
-               total    1  0.074
+               total    1  0.075
                 curl    1  0.074
           parseTimes    1  0.000
 
@@ -593,14 +518,14 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Status: LOADING OK, Next Run: 2016-05-20 21:02:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-03?scenery=1
+Status: LOADING OK, Next Run: 2016-05-23 21:01:40
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.078
-                curl    1  0.078
+               total    1  0.243
+                curl    1  0.243
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
@@ -608,4 +533,64 @@ Something wrong with it: LOADING OK
 Errors: Array
 (
 )
-Time is over: 2016-05-20 21:02:00
+Status: LOADING OK, Next Run: 2016-05-23 21:01:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.113
+                curl    1  0.113
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:01:50
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.082
+                curl    1  0.082
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:01:55
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.096
+                curl    1  0.096
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2016-05-23 21:02:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/2500/2016-06-06?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.612
+                curl    1  0.612
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Time is over: 2016-05-23 21:02:00
