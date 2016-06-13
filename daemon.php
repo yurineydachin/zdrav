@@ -33,6 +33,7 @@ defined('DOCTOR')          && $scanner->doctor =   DOCTOR;
 defined('DATE_APPINTMENT') && $scanner->date =     DATE_APPINTMENT;
 defined('SCENERY')         && $scanner->scenery =  SCENERY;
 defined('DEBUG')           && $scanner->deubg =    DEBUG;
+$scanner->loadNames();
 
 
 $cycle_number = 1;
