@@ -18,18 +18,19 @@ if (count($args) >= 3) { // hospital lpuCode
     $scanner->loadDostorTypes(explode(',', $args[2]));
 }
 
-$res = $scanner->getResult();
-//echo "\nResult: "; print_r($scanner->getResult());
-foreach ($res as $model => $items)
-{
-    echo "\nResult $model: "; print_r(count($items));
-}
+echo "\nResult City: "; print_r(count($scanner->modelCity->getAllItems()));
+echo "\nResult Lpu: "; print_r(count($scanner->modelLpu->getAllItems()));
+echo "\nResult DoctorType: "; print_r(count($scanner->modelDoctorType->getAllItems()));
+echo "\nResult Doctor: "; print_r(count($scanner->modelDoctor->getAllItems()));
+
 echo "\nErrors: "; print_r($scanner->getErrors());
 
-foreach ($res as $model => $items)
-{
-    $scanner->saveModesToFile($items, 'data/'.$model);
-}
+/*
+$scanner->modelCity->saveToFile();
+$scanner->modelLpu->saveToFile();
+$scanner->modelDoctorType->saveToFile();
+$scanner->modelDoctor->saveToFile();
+*/
 
 $profiler->stop(TimeProfiler::total, $pKey);
 echo $profiler->getStat() . "\n";

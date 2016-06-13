@@ -1,7 +1,10 @@
 <?php
 require_once 'libs/curl.php';
 require_once 'libs/profiler.php';
-//require_once 'libs/proxies.php';
+require_once 'model/Doctor.php';
+require_once 'model/DoctorType.php';
+require_once 'model/Lpu.php';
+require_once 'model/City.php';
 
 class ZdradScanner {
 
@@ -56,6 +59,11 @@ class ZdradScanner {
     protected $IsAuthorized = false;
     protected $LastAuthorized = null;
 
+    public $modelCity;
+    public $modelLpu;
+    public $modelDoctorType;
+    public $modelDoctor;
+
     protected $cookieFile;
     protected $curl;
     protected $proxy;
@@ -86,6 +94,11 @@ class ZdradScanner {
 
         //$this->proxy = SCANNER_PROXY11;
         $this->curlInit();
+
+        $this->modelCity       = new City();
+        $this->modelLpu        = new Lpu();
+        $this->modelDoctorType = new DoctorType();
+        $this->modelDoctor     = new Doctor();
     }
 
     public function loadNames()
@@ -393,7 +406,7 @@ class ZdradScanner {
             'doctors'          => array(),
         );
 
-        $url = sprintf(self::CITY_LIST_URL, self::DOMAIN_URL);
+        $url = sprintf(City::URL, self::DOMAIN_URL);
 
         $profiler = TimeProfiler::instance();
         $pKey = $profiler->start(TimeProfiler::curl);
@@ -417,7 +430,8 @@ class ZdradScanner {
 
         foreach ($json['items'] as $item)
         {
-            $this->res[$id][$item['ID']] = $item;
+            $this->modelCity->addRow($item);
+            //$this->res[$id][$item['ID']] = $item;
         }
 
         $profiler->stop('parseCityList', $pKey);
@@ -426,7 +440,7 @@ class ZdradScanner {
 
     public function loadHospitals($cityId)
     {
-        $url = sprintf(self::LPU_LIST_URL, self::DOMAIN_URL, $cityId);
+        $url = sprintf(Lpu::URL, self::DOMAIN_URL, $cityId);
 
         $profiler = TimeProfiler::instance();
         $pKey = $profiler->start(TimeProfiler::curl);
@@ -450,7 +464,8 @@ class ZdradScanner {
 
         foreach ($json['items'] as $item)
         {
-            $this->res[$id][$item['LPUCODE']] = $item;
+            //$this->res[$id][$item['LPUCODE']] = $item;
+            $this->modelLpu->addRow($item);
         }
 
         $profiler->stop('parseLpuList', $pKey);
@@ -461,7 +476,7 @@ class ZdradScanner {
     {
         foreach ((array)$lpuCodes as $lpuCode)
         {
-            $url = sprintf(self::LPU_DOCTOR_TYPES_URL, self::DOMAIN_URL, $lpuCode, $this->scenery);
+            $url = sprintf(DoctorType::URL, self::DOMAIN_URL, $lpuCode, $this->scenery);
 
             $profiler = TimeProfiler::instance();
             $pKey = $profiler->start(TimeProfiler::curl);
@@ -484,10 +499,12 @@ class ZdradScanner {
             return self::NO_DATA_RECIVED;
         }
 
+        $model = new DoctorType();
         $typeIds = array();
         foreach ($json['items'] as $item)
         {
-            $this->res[$id][$item['Specialty']['ID']] = $item['Specialty'];
+            $this->modelDoctorType->addRow($item['Specialty']);
+            //$this->res[$id][$item['Specialty']['ID']] = $item['Specialty'];
             $typeIds[] = $item['Specialty']['ID'];
         }
 
@@ -500,7 +517,7 @@ class ZdradScanner {
     {
         foreach ((array)$typesIds as $typeId)
         {
-            $url = sprintf(self::DOCTORS_LIST_URL, self::DOMAIN_URL, $lpuCode, $typeId, $this->scenery);
+            $url = sprintf(Doctor::URL, self::DOMAIN_URL, $lpuCode, $typeId, $this->scenery);
 
             $profiler = TimeProfiler::instance();
             $pKey = $profiler->start(TimeProfiler::curl);
@@ -525,7 +542,8 @@ class ZdradScanner {
 
         foreach ($json['items'] as $item)
         {
-            $this->res[$id][$item['DocPost']['ID']] = array(
+//            $this->res[$id][$item['DocPost']['ID']] = array(
+            $this->modelDoctor->addRow(array(
                 "ID" =>         $item['DocPost']['ID'],
                 "Family" =>     $item['DocPost']['Doctor']['Family'],
                 "Name" =>       $item['DocPost']['Doctor']['Name'],
@@ -536,7 +554,7 @@ class ZdradScanner {
                 "Sepatation" => $item['DocPost']['Sepatation'],
                 "lpuCode" =>    $info['lpuCode'],
                 "typeId" =>     $info['typeId'],
-            );
+            ));
         }
 
         $profiler->stop('parseDoctors', $pKey);
