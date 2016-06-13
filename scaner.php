@@ -37,6 +37,7 @@ class ZdradScanner {
     public $timePriority = array(
         '23:59' => 1,
     );
+    public $emailCopy  = "yurineydachin@mail.ru";
     public $email      = "yurineydachin@mail.ru";
     public $polis      = "141712440";
     public $birthday   = "01.03.2016";
@@ -324,7 +325,10 @@ class ZdradScanner {
 
         if (strpos($json['items']['CreateVisitResult'], '<ErrorDescription>OK') !== false) {
             $this->res[$id]['STATUS'] = self::STATUS_COMPLETE;
-            $this->sendEmail("<номер талона>");
+            $this->sendEmail($this->email, "<номер талона>");
+            if ($this->email != $this->emailCopy) {
+                $this->sendEmail($this->emailCopy, "<номер талона>");
+            }
         } elseif (strpos($json['items']['CreateVisitResult'], '<ErrorDescription>Данный пациент уже записан') !== false) {
             $this->res[$id]['STATUS'] = self::STATUS_ALREADY;
         } elseif (strpos($json['items']['CreateVisitResult'], '<ErrorDescription>У Вас уже есть запись') !== false) {
@@ -337,11 +341,11 @@ class ZdradScanner {
         return $this->res[$id]['STATUS'];
     }
 
-    public function sendEmail($stubNum)
+    public function sendEmail($email, $stubNum)
     {
         $url = sprintf(self::SEND_EMAIL_URL, self::DOMAIN_URL);
         $params = array(
-            "email"      => $this->email,
+            "email"      => $email,
             "pol"        => $this->polis,
             "datetime"   => $this->date . " " . $this->time,
             "fio"        => $this->doctorFio, //Фисунова Ольга Юрьевна
