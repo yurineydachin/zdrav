@@ -10,6 +10,7 @@ abstract class Model {
     protected $fields = array(); // always contains idField
 
     protected $items  = array();
+    protected $errors  = array();
 
     public function __construct()
     {
@@ -45,6 +46,11 @@ abstract class Model {
     public function getAllItems()
     {
         return $this->items;
+    }
+
+    public function getErrors()
+    {
+        return $this->errors;
     }
 
     public function getById($id)
@@ -83,13 +89,14 @@ abstract class Model {
                     {
                         $model[$fieldName] = $values[$i];
                     }
-                    $this->res[static::$modelName][$model[$this->idField]] = $model;
+                    $this->items[$model[$this->idField]] = $model;
                 }
             } else {
-                $this->errors[static::$modelName] = "No rows: ".count($rows);
+                $this->errors[] = "No rows: ".count($rows);
             }
         } else {
-            $this->errors[static::$modelName] = "No file: ". $this->dir . static::$modelName;
+            $this->errors[] = "No file: ". $this->dir . static::$modelName;
         }
+        return $this;
     }
 }

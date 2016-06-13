@@ -1,19 +1,22 @@
 <?php
-require_once 'scaner.php';
+require_once 'model/Doctor.php';
+require_once 'model/DoctorType.php';
+require_once 'model/Lpu.php';
+require_once 'model/City.php';
 
-$args = $_SERVER['argv'];
+$modelCity       = new City();
+$modelLpu        = new Lpu();
+$modelDoctorType = new DoctorType();
+$modelDoctor     = new Doctor();
 
-$scanner = new ZdradScanner('load_data');
+echo "\nResult City: "; print_r(count($modelCity->loadFromFile()->getAllItems()));
+echo "\nResult Lpu: "; print_r(count($modelLpu->loadFromFile()->getAllItems()));
+echo "\nResult DoctorType: "; print_r(count($modelDoctorType->loadFromFile()->getAllItems()));
+echo "\nResult Doctor: "; print_r(count($modelDoctor->loadFromFile()->getAllItems()));
 
-$scanner->loadModesFromFile('city_list',        'data/city_list');
-$scanner->loadModesFromFile('lpu_list',         'data/lpu_list');
-$scanner->loadModesFromFile('lpu_doctor_types', 'data/lpu_doctor_types');
-$scanner->loadModesFromFile('doctors',          'data/doctors');
+echo "\nErrors City: "; print_r($modelCity->getErrors());
+echo "\nErrors Lpu: "; print_r($modelLpu->getErrors());
+echo "\nErrors DoctorType: "; print_r($modelDoctorType->getErrors());
+echo "\nErrorsResult Doctor: "; print_r($modelDoctor->getErrors());
 
-$res = $scanner->getResult();
-//echo "\nResult: "; print_r($scanner->getResult());
-foreach ($res as $model => $items)
-{
-    echo "\nModel $model: "; print_r(count($items));
-}
-echo "\nErrors: "; print_r($scanner->getErrors());
+echo "\n\n";
