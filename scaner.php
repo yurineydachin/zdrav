@@ -15,12 +15,14 @@ class ZdradScanner {
     const STATUS_NO_AVAILABLE_TIME = 'NO AVAILABLE TIME';
     const STATUS_ERROR_LOADING     = 'ERROR LOADING';
     const STATUS_LOADING_OK        = 'LOADING OK';
+    const STATUS_EMAIL_SENDED_OK   = 'EMAIL SENDED OK';
 
     const COOKIE_FILE            = "/tmp/%s_cookie.txt";
     const DOMAIN_URL             = "https://uslugi.mosreg.ru/zdrav";
     const DOCTOR_APPOINTMENT_URL = "%s/doctor_appointment/doctor/%s/%s/%s?scenery=%d";
     const LOG_IN_URL             = "%s/doctor_appointment/submit";
     const SAVE_EMAIL_URL         = "%s/doctor_appointment/save_email";
+    const SEND_EMAIL_URL         = "%s/doctor_appointment/send_mail";
     const SET_LAST_STEP_URL      = "%s/doctor_appointment/set_last_step";
     const CREATE_VISIT_URL       = "%s/doctor_appointment/create_visit";
     const CITY_LIST_URL          = "%s/doctor_appointment/city_list";
@@ -35,14 +37,21 @@ class ZdradScanner {
     public $timePriority = array(
         '23:59' => 1,
     );
-    public $email    = "yurineydachin@mail.ru";
-    public $polis    = "141712440";
-    public $birthday = "01.03.2016";
-    public $lpuCode  = "0901052";
-    public $doctor   = "1332";
-    public $date     = "2016-04-11";
-    public $scenery  = 1;
-    public $debug    = false;
+    public $emailCopy  = "yurineydachin@mail.ru";
+    public $email      = "yurineydachin@mail.ru";
+    public $polis      = "141712440";
+    public $birthday   = "01.03.2016";
+    public $lpuCode    = "0901052";
+    public $lpuName    = null;
+    public $lpuAddress = null;
+    public $doctor     = "1332";
+    public $doctorFio  = null;
+    public $doctorSpec = null;
+    public $date       = "2016-04-11";
+    public $timeID     = null;
+    public $time       = null;
+    public $scenery    = 1;
+    public $debug      = false;
 
     protected $IsAuthorized = false;
     protected $LastAuthorized = null;
@@ -79,6 +88,18 @@ class ZdradScanner {
         $this->curlInit();
     }
 
+    public function loadNames()
+    {
+        $this->loadModesFromFile('lpu_list', 'data/lpu_list');
+        $this->loadModesFromFile('doctors', 'data/doctors');
+
+        $this->lpuName    = $this->res['lpu_list'][$this->lpuCode]['NAME'];
+        $this->lpuAddress = $this->res['lpu_list'][$this->lpuCode]['ADDRESS'];
+        $doctor = $this->res['doctors'][$this->doctor];
+        $this->doctorFio  = $doctor['Family'] . ' ' . $doctor['Name'] . ' ' . $doctor['Patronymic'];
+        $this->doctorSpec = $doctor['Post'] . ', ' . $doctor['Sepatation'];
+    }
+
     protected function curlInit()
     {
         $this->curl = new Curl_Persistent();
@@ -111,13 +132,13 @@ class ZdradScanner {
 
         $this->loadTimes();
 
-        list($timeId, $timeRanges) = $this->getTheBestTime();
-        if (is_numeric($timeId))
+        $timeRanges = $this->getTheBestTime();
+        if (is_numeric($this->timeID))
         {
             //$this->saveEmail();
             //$this->setLastStep();
             $this->login();
-            $this->createVisit($timeId);
+            $this->createVisit($this->timeID);
         }
         echo "\nResult: "; print_r($this->res);
         echo "\nErrors: "; print_r($this->errors);
@@ -243,32 +264,34 @@ class ZdradScanner {
             }
         }
         foreach ($groups as $groupTimes) {
-            if (count($times) > 0) {
-                return array($this->getRandomTimeId($groupTimes), $groups);
+            if (count($groupTimes) > 0) {
+                $this->timeID = $this->getRandomTimeId($groupTimes);
+                $this->time = $times[$this->timeID];
+                return array($this->timeID, $groups);
             }
         }
         return array(null, $groups);
     }
 
-    private function getRandomTimeId($times)
+    private function getRandomTimeID($times)
     {
         return array_rand($times);
     }
 
-    public function createVisit($timeId)
+    public function createVisit($timeID)
     {
         $id = 'create_visit';
         $this->res[$id] = array('STATUS' => self::STATUS_UNKNOWN);
 
-        if (empty($timeId)) {
-            $this->errors[$id] = "No timeId: create_visit not sended";
+        if (empty($timeID)) {
+            $this->errors[$id] = "No timeID: create_visit not sended";
             $this->res[$id]['STATUS'] = self::STATUS_NO_TIME;
             return $this->res[$id]['STATUS'];
         }
         $url = sprintf(self::CREATE_VISIT_URL, self::DOMAIN_URL);
         $params = array(
             "lpuCode" => $this->lpuCode,
-            "DTTID"   => $timeId,
+            "DTTID"   => $timeID,
         );
 
         $profiler = TimeProfiler::instance();
@@ -276,7 +299,7 @@ class ZdradScanner {
         $page = $this->curl->get($url, $params);
         $profiler->stop(TimeProfiler::curl, $pKey);
 
-        return $this->parseCreateVisit($page, array('id' => $id));
+        return $this->parseCreateVisit($page, array('id' => $id, 'timeID' => $timeID));
     }
 
     public function parseCreateVisit($page, $info)
@@ -302,6 +325,10 @@ class ZdradScanner {
 
         if (strpos($json['items']['CreateVisitResult'], '<ErrorDescription>OK') !== false) {
             $this->res[$id]['STATUS'] = self::STATUS_COMPLETE;
+            $this->sendEmail($this->email, "<номер талона>");
+            if ($this->email != $this->emailCopy) {
+                $this->sendEmail($this->emailCopy, "<номер талона>");
+            }
         } elseif (strpos($json['items']['CreateVisitResult'], '<ErrorDescription>Данный пациент уже записан') !== false) {
             $this->res[$id]['STATUS'] = self::STATUS_ALREADY;
         } elseif (strpos($json['items']['CreateVisitResult'], '<ErrorDescription>У Вас уже есть запись') !== false) {
@@ -311,6 +338,47 @@ class ZdradScanner {
         }
 
         $profiler->stop('parseCreateVisit', $pKey);
+        return $this->res[$id]['STATUS'];
+    }
+
+    public function sendEmail($email, $stubNum)
+    {
+        $url = sprintf(self::SEND_EMAIL_URL, self::DOMAIN_URL);
+        $params = array(
+            "email"      => $email,
+            "pol"        => $this->polis,
+            "datetime"   => $this->date . " " . $this->time,
+            "fio"        => $this->doctorFio, //Фисунова Ольга Юрьевна
+            "doctorData" => $this->doctorSpec, //Нефрологи, Нефрология детской поликлиники 
+            "lpuName"    => $this->lpuName, //Детская поликлиника (ГБУЗ МО "ЦГБ")
+            "lpuAddress" => $this->lpuAddress, //Московская обл., г Железнодорожный, ул Некрасова, дом 4, стр. 1
+            "stubNum"    => $stubNum,//ФО002
+        );
+
+        $profiler = TimeProfiler::instance();
+        $pKey = $profiler->start(TimeProfiler::curl);
+        $page = $this->curl->get($url, $params);
+        $profiler->stop(TimeProfiler::curl, $pKey);
+
+        return $this->parseSendEmail($page, array('id' => 'send_email'));
+    }
+
+    public function parseSendEmail($page, $info)
+    {
+        $id = $info['id'];
+
+        $profiler = TimeProfiler::instance();
+        $pKey = $profiler->start('parseSendEmail');
+
+        if (! $page || ! ($json = json_decode($page, true)) || empty($json['success'])) {
+            $this->errors[$id] = $page;
+            return self::NO_DATA_RECIVED;
+        }
+
+        $this->res[$id] = $json;
+        $this->res[$id]['STATUS'] = self::STATUS_EMAIL_SENDED_OK;
+
+        $profiler->stop('parseSendEmail', $pKey);
         return $this->res[$id]['STATUS'];
     }
 
@@ -509,7 +577,7 @@ class ZdradScanner {
                     else
                     {
                         $values = explode(self::MODEL_DELIMITER, $rows[$i]);
-                        $byId = array_pop($values);
+                        $byId = trim(array_pop($values));
                         $model = array();
                         foreach ($keys as $j => $key)
                         {
@@ -567,15 +635,15 @@ class ZdradScanner {
             return self::STATUS_NO_TIME;
         }
 
-        list($timeId, $timeRanges) = $this->getTheBestTime();
-        if (empty($timeId)) { 
-            $this->errors['set_last_step'] = "No timeId: set_last_step not sended";
+        list($timeID, $timeRanges) = $this->getTheBestTime();
+        if (empty($timeID)) { 
+            $this->errors['set_last_step'] = "No timeID: set_last_step not sended";
             return self::STATUS_NO_TIME;
         }
         $url = sprintf(self::SET_LAST_STEP_URL, self::DOMAIN_URL);
         $params = array(
             "lpuCode" => $this->lpuCode,
-            "DTTID"   => $timeId,
+            "DTTID"   => $timeID,
         );
 
         $profiler = TimeProfiler::instance();
