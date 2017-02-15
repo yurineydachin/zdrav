@@ -1,15 +1,16 @@
 <?php
 //1325|Рыкова|Инна|Юрьевна|||Травматологи-ортопеды|Ортопедия детской поликлиники|0901052|1163|1325
-define('TIME_FROM',       '2016-05-25 20:58:00',true);
-define('TIME_TO',         '2016-05-25 21:02:00',true);
-define('EMAIL',           'yurineyda9hin@mail.ru',true);
+define('DOCTOR',          '1325',true);
+
+define('TIME_FROM',       '2017-02-15 20:58:00',true);
+define('TIME_TO',         '2017-02-15 21:02:00',true);
+define('DATE_APPINTMENT', '2017-03-01',true);
+
+define('EMAIL',           'yurineydachin@mail.ru',true);
 define('POLIS',           '5096389748000313',true);
 define('BIRTHDAY',        '01.03.2016',true);
 define('LPU_CODE',        '0901052',true);
-define('DOCTOR',          '1325',true);
-define('DATE_APPINTMENT', '2016-06-08',true);
 define('SCENERY',         1,true);
-//define('DEBUG',           1,true);
 
 $timePriority = array(
     '09:00' => 1,
