@@ -2,8 +2,8 @@
 //2485|Жирнов|Иван|Петрович|||Детские хирурги|Хирургия детской поликлиники|0901052|1022|2485
 define('DOCTOR',          '2485',true);
 
-define('TIME_FROM',       '2017-02-15 20:58:00',true);
-define('TIME_TO',         '2017-02-15 21:05:00',true);
+define('TIME_FROM',       '2017-02-16 20:58:00',true);
+define('TIME_TO',         '2017-02-16 21:05:00',true);
 define('DATE_APPINTMENT', '2017-03-02',true);
 
 define('EMAIL',           'yurineydachin@mail.ru',true);
