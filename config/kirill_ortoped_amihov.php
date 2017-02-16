@@ -2,9 +2,9 @@
 //2500|Аминов|Муродбек|Кенджаевич|||Травматологи-ортопеды|Ортопедия детской поликлиники|0901052|1163|2500
 define('DOCTOR',          '2500',true);
 
-define('TIME_FROM',       '2017-02-15 20:58:00',true);
-define('TIME_TO',         '2017-02-15 21:02:00',true);
-define('DATE_APPINTMENT', '2017-03-01',true);
+define('TIME_FROM',       '2017-02-16 20:58:00',true);
+define('TIME_TO',         '2017-02-16 21:02:00',true);
+define('DATE_APPINTMENT', '2017-03-02',true);
 
 define('EMAIL',           'yurineydachin@mail.ru',true);
 define('POLIS',           '5096389748000313',true);
