@@ -1,2867 +1,616 @@
-2017-02-16 16:38:39 wait until 2017-02-16 20:58:00 sec: 15561, 1487267880, 1487252319  sleep: 4.3225
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+2017-02-17 16:26:30 wait until 2017-02-17 20:58:00 sec: 16290, 1487354280, 1487337990  sleep: 4.525
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.579
-                curl    1  0.579
+               total    1  0.833
+                curl    1  0.833
           parseTimes    1  0.000
 
-Status: NO TIME, Next Run: 2017-02-16 20:58:04
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.307
-                curl    1  1.307
+               total    1  0.468
+                curl    1  0.468
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:11
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.306
-                curl    1  1.306
+               total    1  0.444
+                curl    1  0.444
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:16
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.306
-                curl    1  1.305
+               total    1  0.463
+                curl    1  0.463
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:21
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.304
-                curl    1  1.304
+               total    1  0.444
+                curl    1  0.444
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:26
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.333
-                curl    1  1.332
+               total    1  0.452
+                curl    1  0.451
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:31
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.301
-                curl    1  1.301
+               total    1  0.445
+                curl    1  0.445
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:36
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.505
-                curl    1  1.505
+               total    1  0.451
+                curl    1  0.451
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:39
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:41
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.307
-                curl    1  1.307
+               total    1  0.446
+                curl    1  0.446
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:46
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.300
-                curl    1  1.300
+               total    1  0.450
+                curl    1  0.450
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:51
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.330
-                curl    1  1.330
+               total    1  0.476
+                curl    1  0.476
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:58:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:58:56
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.297
-                curl    1  1.297
+               total    1  0.448
+                curl    1  0.448
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:01
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.312
-                curl    1  1.312
+               total    1  0.518
+                curl    1  0.518
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:05
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.317
-                curl    1  1.317
+               total    1  0.527
+                curl    1  0.527
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:10
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.404
-                curl    1  1.404
+               total    1  0.454
+                curl    1  0.454
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:16
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.314
-                curl    1  1.314
+               total    1  0.490
+                curl    1  0.489
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:21
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.339
-                curl    1  1.339
+               total    1  0.461
+                curl    1  0.460
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:26
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.744
-                curl    1  1.744
+               total    1  0.480
+                curl    1  0.480
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:31
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  2.320
-                curl    1  2.320
+               total    1  0.453
+                curl    1  0.453
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:36
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.814
-                curl    1  1.814
+               total    1  0.449
+                curl    1  0.448
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:40
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:41
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  3.632
-                curl    1  3.632
+               total    1  0.452
+                curl    1  0.452
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:46
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.334
-                curl    1  1.334
+               total    1  0.466
+                curl    1  0.466
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:51
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.383
-                curl    1  1.382
+               total    1  0.459
+                curl    1  0.459
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 20:59:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 20:59:56
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.315
-                curl    1  1.315
+               total    1  0.442
+                curl    1  0.442
           parseTimes    1  0.000
 
-Status: TIME NOT OPENED, Next Run: 2017-02-16 21:00:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: TIME NOT OPENED, Next Run: 2017-02-17 21:00:01
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.349
-                curl    1  1.349
-          parseTimes    1  0.000
-
-Something wrong with it: LOADING OK
-
-Errors: Array
-(
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
-)
-Status: LOADING OK, Next Run: 2017-02-16 21:00:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
-No time: Array
-(
-)
-
-               total    1  4.450
-                curl    1  4.450
+               total    1  0.461
+                curl    1  0.461
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:06
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.005
-                curl    1  0.005
-          parseTimes    1  0.000
-
-Status: NO TIME, Next Run: 2017-02-16 21:00:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
-No time: Array
-(
-)
-
-               total    1  1.887
-                curl    1  1.887
+               total    1  0.453
+                curl    1  0.453
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:11
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.916
-                curl    1  0.916
+               total    1  0.480
+                curl    1  0.480
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:16
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.800
-                curl    1  0.800
+               total    1  0.469
+                curl    1  0.469
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:21
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.825
-                curl    1  0.825
+               total    1  0.478
+                curl    1  0.478
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:26
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.822
-                curl    1  0.822
+               total    1  0.462
+                curl    1  0.462
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:40
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:31
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.824
-                curl    1  0.824
+               total    1  0.452
+                curl    1  0.452
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:36
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.829
-                curl    1  0.829
+               total    1  0.462
+                curl    1  0.462
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:41
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.827
-                curl    1  0.827
+               total    1  0.478
+                curl    1  0.478
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:00:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:46
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.821
-                curl    1  0.821
+               total    1  0.479
+                curl    1  0.479
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:51
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.806
-                curl    1  0.806
+               total    1  0.461
+                curl    1  0.461
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:05
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:00:56
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.818
-                curl    1  0.818
+               total    1  0.515
+                curl    1  0.515
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:10
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.850
-                curl    1  0.849
+               total    1  0.473
+                curl    1  0.473
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:15
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:06
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  1.027
-                curl    1  1.027
+               total    1  0.447
+                curl    1  0.447
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:20
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:11
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.822
-                curl    1  0.822
+               total    1  0.519
+                curl    1  0.519
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:25
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.811
-                curl    1  0.811
+               total    1  0.447
+                curl    1  0.447
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:30
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:21
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.800
-                curl    1  0.800
+               total    1  0.457
+                curl    1  0.457
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:35
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:26
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.813
-                curl    1  0.813
+               total    1  0.473
+                curl    1  0.473
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:40
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:31
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.815
-                curl    1  0.815
+               total    1  0.500
+                curl    1  0.500
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:45
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:35
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.845
-                curl    1  0.845
+               total    1  0.451
+                curl    1  0.451
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:50
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:41
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.826
-                curl    1  0.826
+               total    1  0.448
+                curl    1  0.448
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:01:55
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:46
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.831
-                curl    1  0.831
+               total    1  0.454
+                curl    1  0.454
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Status: LOADING OK, Next Run: 2017-02-16 21:02:00
-https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-02?scenery=1
+Status: LOADING OK, Next Run: 2017-02-17 21:01:51
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
 No time: Array
 (
 )
 
-               total    1  0.819
-                curl    1  0.819
+               total    1  0.446
+                curl    1  0.446
           parseTimes    1  0.000
 
 Something wrong with it: LOADING OK
 
 Errors: Array
 (
-    [times] => <!DOCTYPE html>
-<html class="no-js"><!--<![endif]-->
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Страница не доступна - Портал государственных и муниципальных услуг Московсковской области</title>
-
-  <meta http-equiv="cleartype" content="on">
-  <link rel="icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="https://uslugi.mosreg.ru/errors/images/sunshine/favicon.ico" type="image/x-icon">
-  <link rel="image_src" href="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta itemprop="name" content="Страница не существует">
-  <meta itemprop="description" content="Страница не существует">
-  <meta itemprop="image" content="https://uslugi.mosreg.ru/errors/images/sunshine/og/image-src.jpg">
-
-  <meta id="metaViewport" name="viewport" content="width=device-width">
-
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/fonts.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/bootstrap.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/main.css">
-  <link rel="stylesheet" href="https://uslugi.mosreg.ru/errors/styles/sunshine/responsive.css">
-</head>
-<body>
-<div class="bg-portal"></div>
-<!--[if lt IE 9]>
-<p id="browsehappy">Вы используете <strong>устаревшую</strong> версию браузера.
-  <br/>Пожалуйста <a style="text-decoration:underline;color:initial" href="http://browsehappy.com/">обновите свой
-    браузер</a>,
-  <br/>чтобы ощутить все преимущества и достоинства современного портала услуг Московской области.</p>
-<![endif]-->
-
-<div class="wrapper bg height-lock width-lock">
-  <section class="section main width-lock">
-    <div class="row-fluid vertical">
-      <div class="bxLogo">
-        <a class="logo" href="/">
-          Портал государственных и&nbsp;муниципальных услуг<span class="subtitle">Московсковской области</span>
-        </a>
-      </div>
-
-      <div class="container-fluid-outer">
-        <div class="container-fluid container-fluid__inline">
-          <!-- pubstatic -->
-          <div class="g-error">
-
-            <div class="g-error-title">
-              <p class="g-error-title-text">Портал услуг временно недоступен</p>
-            </div>
-
-            <div class="g-error-text">
-              <p>На данный момент портал услуг недоступен по&nbsp;техническим&nbsp;причинам.<br>
-                <br />Приносим свои извинения за доставленные неудобства.<br/>
-                Пожалуйста, попробуйте <a href="#" onclick="location.reload();return false;">еще раз</a> или вернитесь
-                <a href="#" onclick="history.back(-1);return false;">назад</a>.
-              </p>
-            </div>
-
-            <div class="g-error-action">
-              <a class="btn btn-danger" href="/">перейти на главную</a>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="container-fluid container-fluid__ad g-firstclass">
-          <div class="g-tile g-firstclass-tile">
-            <div class="g-tile-box g-tile-front g-tile--img-full">
-              <div class="g-tile-img-outer">
-                <img class="g-tile-img" width="100%"
-                     src="images/sunshine/firstclass.jpg"
-                     alt="Запись в первый класс">
-              </div>
-              <div class="g-tile-inner">
-                <h3 class="g-tile-title" title="Запись в первый класс">Хотите записать ребенка в первый класс?</h3>
-                <span class="g-tile-separator line"></span>
-                <!--<span>Это займет всего несколько минут</span>-->
-              </div>
-              <div class="g-tile-footer">
-                <a href="http://firstclass.uslugi.mosreg.ru" class="btn btn-primary">Записать!</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-    </div>
-  </section>
-</div>
-
-
-</body>
-</html>
-
 )
-Time is over: 2017-02-16 21:02:00
+Status: LOADING OK, Next Run: 2017-02-17 21:01:56
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.457
+                curl    1  0.457
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2017-02-17 21:02:01
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/1325/2017-03-03?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.445
+                curl    1  0.445
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Time is over: 2017-02-17 21:02:00
