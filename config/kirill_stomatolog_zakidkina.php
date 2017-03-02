@@ -1,17 +1,16 @@
 <?php
-//2469|Ивашкина|Татьяна|Александровна|||Педиатры|Логопед детской поликлиники|0901052|1159|2469
-define('DOCTOR',          '2469',true);
+//384|Закидкина|Марина|Юрьевна||11|Стоматологи детские|Стоматологическое отделение №2|090401|1146|384
+define('DOCTOR',          '384',true);
 
 define('TIME_FROM',       '2017-03-02 20:58:00',true);
 define('TIME_TO',         '2017-03-02 21:02:00',true);
 define('DATE_APPINTMENT', '2017-03-16',true);
 
-define('EMAIL',           'yurineyda9hin@mail.ru',true);
-define('POLIS',           '5091689772000310',true);
-define('BIRTHDAY',        '27.08.2013',true);
+define('EMAIL',           'yurineydachin@mail.ru',true);
+define('POLIS',           '5096389748000313',true);
+define('BIRTHDAY',        '01.03.2016',true);
 define('LPU_CODE',        '0901052',true);
 define('SCENERY',         1,true);
-//define('DEBUG',           1,true);
 
 $timePriority = array(
     '09:00' => 1,
