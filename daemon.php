@@ -35,9 +35,10 @@ defined('SCENERY')         && $scanner->scenery =  SCENERY;
 defined('DEBUG')           && $scanner->deubg =    DEBUG;
 $scanner->loadNames();
 
+$period = 5 * 1e6;
+defined('TIMEOUT') && $period = TIMEOUT * 1e6;
 
 $cycle_number = 1;
-$period = 5 * 1e6;
 
 while (true) {
     $started = microtime(true);
