@@ -2,9 +2,9 @@
 //1395|Бирюкова|Елена|Николаевна|||Офтальмологи|Офтальмология детской поликлиники|0901052|1085|1395
 define('DOCTOR',          '1395',true);
 
-define('TIME_FROM',       '2018-02-22 06:55:00',true);
-define('TIME_TO',         '2018-02-22 07:05:00',true);
-define('DATE_APPINTMENT', '2018-03-07',true);
+define('TIME_FROM',       '2018-02-24 06:55:00',true);
+define('TIME_TO',         '2018-02-24 07:05:00',true);
+define('DATE_APPINTMENT', '2018-03-08',true);
 
 define('EMAIL',           'yurineydachin@mail.ru',true);
 define('POLIS',           '5096389748000313',true);
