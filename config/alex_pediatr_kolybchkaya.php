@@ -2,8 +2,8 @@
 //3644|Кольницкая|Светлана|Борисовна|21, 22||Педиатры|Педиатрия детской поликлиники|090105|1087|3644
 define('DOCTOR',          '3644',true);
 
-define('TIME_FROM',       '2018-02-24 06:55:00',true);
-define('TIME_TO',         '2018-02-24 07:05:00',true);
+define('TIME_FROM',       '2018-02-23 06:55:00',true);
+define('TIME_TO',         '2018-02-23 07:05:00',true);
 define('DATE_APPINTMENT', '2018-03-08',true);
 
 define('EMAIL',           'yurineydachin@mail.ru',true);

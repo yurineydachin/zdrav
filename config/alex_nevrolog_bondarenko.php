@@ -2,8 +2,8 @@
 //1323|Бондаренко|Ираида|Лукъяновна|||Неврологи|Неврология детской поликлиники|0901052|1063|1323
 define('DOCTOR',          '1323',true);
 
-define('TIME_FROM',       '2018-02-24 06:55:00',true);
-define('TIME_TO',         '2018-02-24 07:05:00',true);
+define('TIME_FROM',       '2018-02-23 06:55:00',true);
+define('TIME_TO',         '2018-02-23 07:05:00',true);
 define('DATE_APPINTMENT', '2018-03-08',true);
 
 define('EMAIL',           'yurineydachin@mail.ru',true);
