@@ -178,7 +178,7 @@ class ZdradScanner {
         $availableTimes = array();
         foreach ($json['timeItems'] as $timeData)
         {
-            if (! empty($timeData['attrs']['PosID']) && empty($timeData['attrs']['BusyFlag']) && !empty($timeData['time']) && !empty($timeData['attrs']['FlagAccess'])) {
+            if (! empty($timeData['attrs']['PosID']) && empty($timeData['attrs']['BusyFlag']) && !empty($timeData['time']) && !empty($timeData['attrs']['FlagAccess'])) && $timeData['attrs']['FlagAccess'] != '8' {
                 $availableTimes[$timeData['attrs']['PosID']] = $timeData['time'];
             }
         }
