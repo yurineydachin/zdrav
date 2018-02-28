@@ -2,9 +2,9 @@
 //1330|Смышляев|Сергей|Николаевич|||Хирурги|Хирургия детской поликлиники|0901052|1022|1330
 define('DOCTOR',          '1330',true);
 
-define('TIME_FROM',       '2018-02-27 06:55:00',true);
-define('TIME_TO',         '2018-02-27 07:05:00',true);
-define('DATE_APPINTMENT', '2018-03-12',true);
+define('TIME_FROM',       '2018-02-28 06:55:00',true);
+define('TIME_TO',         '2018-02-28 07:05:00',true);
+define('DATE_APPINTMENT', '2018-03-13',true);
 
 define('EMAIL',           'yurineydachin@mail.ru',true);
 define('POLIS',           '5089289745001000',true);
