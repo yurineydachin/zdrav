@@ -1,1 +1,2683 @@
 2018-02-26 16:42:15 wait until 2018-02-27 06:55:00 sec: 51165, 1519703700, 1519652535  sleep: 14.2125
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  1.822
+                curl    1  1.822
+          parseTimes    1  0.000
+
+Something wrong with it: LOADING OK
+
+Errors: Array
+(
+)
+Status: LOADING OK, Next Run: 2018-02-27 06:55:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:55:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.133
+                curl    1  0.132
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:55:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:56:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.080
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:56:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:56:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:56:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:57:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:57:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.231
+                curl    1  0.231
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:57:31
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:57:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.083
+                curl    1  0.083
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:58:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:58:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:58:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:58:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:59:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.081
+                curl    1  0.081
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:59:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.006
+                curl    1  0.006
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:59:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.234
+                curl    1  0.234
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 06:59:46
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 07:00:00
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.084
+                curl    1  0.083
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 07:00:15
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.003
+                curl    1  0.003
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 07:00:30
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+No time: Array
+(
+)
+
+               total    1  0.080
+                curl    1  0.080
+          parseTimes    1  0.000
+
+Status: NO TIME, Next Run: 2018-02-27 07:00:45
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/doctor/0901052/3673/2018-03-12?scenery=1
+Have found free time: 4527399 in ranges:Array
+(
+    [0] => Array
+        (
+        )
+
+    [1] => Array
+        (
+            [4527399] => 09:00
+        )
+
+    [2] => Array
+        (
+        )
+
+    [3] => Array
+        (
+            [4527400] => 09:15
+            [4527401] => 09:30
+        )
+
+    [4] => Array
+        (
+            [4527404] => 10:15
+            [4527406] => 10:45
+            [4527407] => 11:00
+            [4527408] => 11:15
+            [4527409] => 11:30
+            [4527410] => 11:45
+            [4527412] => 12:15
+            [4527413] => 12:30
+            [4527414] => 12:45
+            [4527415] => 13:00
+            [4527416] => 13:15
+        )
+
+    [5] => Array
+        (
+        )
+
+    [6] => Array
+        (
+        )
+
+)
+
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/submit
+https://uslugi.mosreg.ru/zdrav/doctor_appointment/create_visit
+               total    1  1.589
+                curl    3  1.588
+          parseTimes    1  0.000
+          parseLogin    1  0.000
+    parseCreateVisit    1  0.000
+
+
+Result: Array
+(
+    [times] => Array
+        (
+            [4527399] => 09:00
+            [4527400] => 09:15
+            [4527401] => 09:30
+            [4527404] => 10:15
+            [4527406] => 10:45
+            [4527407] => 11:00
+            [4527408] => 11:15
+            [4527409] => 11:30
+            [4527410] => 11:45
+            [4527412] => 12:15
+            [4527413] => 12:30
+            [4527414] => 12:45
+            [4527415] => 13:00
+            [4527416] => 13:15
+        )
+
+    [create_visit] => Array
+        (
+            [success] => 1
+            [items] => Array
+                (
+                    [CreateVisitResult] => <CreateVisitResult Result="false" Code="-101">
+<ErrorDescription>У Вас уже есть запись к врачу данной специальности. Повторная запись запрещена</ErrorDescription>
+</CreateVisitResult>
+                )
+
+            [lpu] => Array
+                (
+                    [ID] => 57082163
+                    [LPUCODE] => 0901052
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Детская поликлиника (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Железнодорожный, ул. Некрасова, 4, стр.1
+                    [PHONE] => +7(495) 522-12-17
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.749841
+                    [longitude] => 37.995664
+                )
+
+            [policy] => Array
+                (
+                    [S_POL] => 
+                    [N_POL] => 5089289745001000
+                    [Birthday] => 2017-10-04
+                )
+
+            [binded] => 1
+            [server] => Array
+                (
+                    [date] => 27.02.2018
+                    [time] => 07:00
+                )
+
+            [STATUS] => ALREADY APPOINTMENT
+        )
+
+    [lpu_list] => Array
+        (
+            [0907011] => Array
+                (
+                    [ID] => 57370876
+                    [LPUCODE] => 0907011
+                    [EMAIL] => infobalroddom@mail.ru
+                    [SITEURL] => 
+                    [NAME] =>  Балашихинский родильный дом. Женская консультация
+                    [IP] => http://10.3.126.67:8002/Zhelezn_RD/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Саввино, ул. Саввинская, 15
+                    [PHONE] => 8(495)522-11-69
+                    [ACCESSIBILITY] => 0.0000
+                    [CHILDREN] => 
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.727547
+                    [longitude] => 38.033289
+                )
+
+            [0907012] => Array
+                (
+                    [ID] => 57645269
+                    [LPUCODE] => 0907012
+                    [EMAIL] => infobalroddom@mail.ru
+                    [SITEURL] => 
+                    [NAME] => Балашихинский родильный дом. Терапия
+                    [IP] => http://10.3.126.67:8002/Zhelezn_RD/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Саввино, ул. Саввинская, 15
+                    [PHONE] => +7(495) 522-11-69 
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.727547
+                    [longitude] => 38.033289
+                )
+
+            [0101085] => Array
+                (
+                    [ID] => 57081125
+                    [LPUCODE] => 0101085
+                    [EMAIL] => mu_bsp@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => ГАУЗ МО Балашихинская стоматологическая поликлиника. Кабинет в детской поликлинике № 11
+                    [IP] => http://10.3.126.67:8002/Balashiha_StP/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Твардовского, 7, кв.24
+                    [PHONE] =>  
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.791865
+                    [longitude] => 37.975398
+                )
+
+            [0101081] => Array
+                (
+                    [ID] => 57080517
+                    [LPUCODE] => 0101081
+                    [EMAIL] => mu_bsp@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => ГАУЗ МО Балашихинская стоматологическая поликлиника. Лечебно-хирургическое отделение № 1
+                    [IP] => http://10.3.126.67:8002/Balashiha_StP/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ш. Энтузиастов, 62
+                    [PHONE] => 8 (495) 521-88-66
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 0
+                    [isCallDocHome] => 0
+                    [latitude] => 55.796091
+                    [longitude] => 37.970107
+                )
+
+            [0101084] => Array
+                (
+                    [ID] => 57080520
+                    [LPUCODE] => 0101084
+                    [EMAIL] => mu_bsp@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => ГАУЗ МО Балашихинская стоматологическая поликлиника. Лечебно-хирургическое отделение № 2
+                    [IP] => http://10.3.126.67:8002/Balashiha_StP/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. 40 лет Победы, 18
+                    [PHONE] => 8 (495) 523-71-81
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.824415
+                    [longitude] => 37.974168
+                )
+
+            [0101082] => Array
+                (
+                    [ID] => 57080518
+                    [LPUCODE] => 0101082
+                    [EMAIL] => mu_bsp@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => ГАУЗ МО Балашихинская стоматологическая поликлиника. Ортопедическое отделение
+                    [IP] => http://10.3.126.67:8002/Balashiha_StP/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Парковая, 13
+                    [PHONE] => 8 (495) 521-83-84
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.743705
+                    [longitude] => 37.917969
+                )
+
+            [010701] => Array
+                (
+                    [ID] => 57221691
+                    [LPUCODE] => 010701
+                    [EMAIL] => tubbalashiha@yandeх.ru
+                    [SITEURL] =>  http://www.balptd.ru/index.html
+                    [NAME] => ГБУЗ МО "Балашихинский противотуберкулёзный диспансер"
+                    [IP] => http://10.3.126.67:8002/Balashih_PTD/webhltservice.asmx?wsdl
+                    [ADDRESS] => Московская обл., г Железнодорожный, мкр Павлино, дом 65
+                    [PHONE] => 8(495)527-62-68
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.727578
+                    [longitude] => 37.956317
+                )
+
+            [010601] => Array
+                (
+                    [ID] => 57196228
+                    [LPUCODE] => 010601
+                    [EMAIL] => Bpnd08@mail.ru
+                    [SITEURL] => www.balpnd.ru
+                    [NAME] => ГБУЗ МО "Балашихинский психоневрологический диспансер" 
+                    [IP] => http://10.3.126.67:8002/Balashiha_PND/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Советская, 48
+                    [PHONE] => 8(495) 529-01-11
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.824415
+                    [longitude] => 37.974168
+                )
+
+            [010117] => Array
+                (
+                    [ID] => 57081554
+                    [LPUCODE] => 010117
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская детская поликлиника №11 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Твардовского, 7
+                    [PHONE] => +7-495-529-10-98
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.791865
+                    [longitude] => 37.975398
+                )
+
+            [0101071] => Array
+                (
+                    [ID] => 57776441
+                    [LPUCODE] => 0101071
+                    [EMAIL] => gp7@balcrb.ru
+                    [SITEURL] => https://balcrb.ru/structure/pol/poliklinika-7/
+                    [NAME] => Городская детская поликлиника №7 (Филиал №1)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Трубецкая, 110
+                    [PHONE] => 7(495) 524-52-07
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.835983
+                    [longitude] => 37.979315
+                )
+
+            [0101072] => Array
+                (
+                    [ID] => 57779233
+                    [LPUCODE] => 0101072
+                    [EMAIL] => gp7@balcrb.ru
+                    [SITEURL] => https://balcrb.ru/structure/pol/poliklinika-7/
+                    [NAME] => Городская детская поликлиника №7 (Филиал №2)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Янтарный, проезд. Акуловский, 6
+                    [PHONE] => 7(495) 524-52-07
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.821295
+                    [longitude] => 37.882755
+                )
+
+            [0101073] => Array
+                (
+                    [ID] => 57778871
+                    [LPUCODE] => 0101073
+                    [EMAIL] => gp7@balcrb.ru
+                    [SITEURL] => https://balcrb.ru/structure/pol/poliklinika-7/
+                    [NAME] => Городская детская поликлиника №7 (Филиал №3)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Гагарина, 11
+                    [PHONE] => 7 (495) 523-00-13
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.825093
+                    [longitude] => 37.921077
+                )
+
+            [010107] => Array
+                (
+                    [ID] => 57081547
+                    [LPUCODE] => 010107
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская детская поликлиника №7 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Свердлова, 1
+                    [PHONE] => +7(495)523-00-13
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.818947
+                    [longitude] => 37.965223
+                )
+
+            [010116] => Array
+                (
+                    [ID] => 57081549
+                    [LPUCODE] => 010116
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  http://
+                    [NAME] => Городская поликлиника №10 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Заря, ул. Московская, 17
+                    [PHONE] => +7(498)665-41-41
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.756325
+                    [longitude] => 38.08988
+                )
+
+            [010103] => Array
+                (
+                    [ID] => 57081542
+                    [LPUCODE] => 010103
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская поликлиника №2 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Заречная, 2
+                    [PHONE] => +7(495)523-93-56
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.813698
+                    [longitude] => 37.961738
+                )
+
+            [010104] => Array
+                (
+                    [ID] => 57081543
+                    [LPUCODE] => 010104
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская поликлиника №3 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, пр-кт. Ленина, 79
+                    [PHONE] => +7(495)521-63-70
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.800782
+                    [longitude] => 37.976616
+                )
+
+            [0101151] => Array
+                (
+                    [ID] => 57779285
+                    [LPUCODE] => 0101151
+                    [EMAIL] => gp4@balcrb.ru
+                    [SITEURL] => https://balcrb.ru/structure/pol/poliklinika-7/
+                    [NAME] => Городская поликлиника №4 ( Филиал №1)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Гагарина, 11
+                    [PHONE] => 7(495) 523-14-02
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.821295
+                    [longitude] => 37.882755
+                )
+
+            [010115] => Array
+                (
+                    [ID] => 57081544
+                    [LPUCODE] => 010115
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская поликлиника №4 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Солнечная, 8
+                    [PHONE] => +7(495)523-14-02
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.823276
+                    [longitude] => 37.956316
+                )
+
+            [010109] => Array
+                (
+                    [ID] => 57081545
+                    [LPUCODE] => 010109
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская поликлиника №5 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Дзержинского, 28
+                    [PHONE] => +7(495)524-63-19
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.778945
+                    [longitude] => 37.899756
+                )
+
+            [011109] => Array
+                (
+                    [ID] => 57456906
+                    [LPUCODE] => 011109
+                    [EMAIL] => 
+                    [SITEURL] => http://balcrb.ru/structure/pol/poliklinika-5/
+                    [NAME] => Городская поликлиника №5 (мкр. Никольско-Архангельское)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Никольско-Архангельский, линия. 7-я, 38
+                    [PHONE] => +7(495) 524-70-37
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 
+                    [CITY] => 57074329
+                    [isWaitingList] => 
+                    [isCallDocHome] => 
+                    [latitude] => 
+                    [longitude] => 
+                )
+
+            [010106] => Array
+                (
+                    [ID] => 57081546
+                    [LPUCODE] => 010106
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская поликлиника №6 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ш. Энтузиастов, 62
+                    [PHONE] => +7(495)529-24-00
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.796197
+                    [longitude] => 37.970289
+                )
+
+            [010110] => Array
+                (
+                    [ID] => 57081548
+                    [LPUCODE] => 010110
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Городская поликлиника №9 (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Салтыковка, ул. Островского, 4
+                    [PHONE] => +7(495)529-92-19
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.796197
+                    [longitude] => 37.970289
+                )
+
+            [0901052] => Array
+                (
+                    [ID] => 57082163
+                    [LPUCODE] => 0901052
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Детская поликлиника (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Железнодорожный, ул. Некрасова, 4, стр.1
+                    [PHONE] => +7(495) 522-12-17
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.749841
+                    [longitude] => 37.995664
+                )
+
+            [901017] => Array
+                (
+                    [ID] => 57221256
+                    [LPUCODE] => 901017
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Детское поликлиническое отделение детской поликлиники № 1 в мкр. Павлино (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Павлино, 10
+                    [PHONE] => 84986631223
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.728743
+                    [longitude] => 37.965216
+                )
+
+            [0901021] => Array
+                (
+                    [ID] => 57082146
+                    [LPUCODE] => 0901021
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Детское поликлиническое отделение поликлиники № 1 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Кучино, ул. Юннатов, 2
+                    [PHONE] => 8-495-522-10-20
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.748953
+                    [longitude] => 37.950524
+                )
+
+            [0902011] => Array
+                (
+                    [ID] => 57082148
+                    [LPUCODE] => 0902011
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Детское поликлиническое отделение поликлиники № 2 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Саввино, ул. Транспортная, 4
+                    [PHONE] => 8-495-527-51-07
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.734595
+                    [longitude] => 38.024473
+                )
+
+            [0901071] => Array
+                (
+                    [ID] => 57082155
+                    [LPUCODE] => 0901071
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Детское поликлиническое отделение поликлиники № 5 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Купавна, ул. Адмирала Макарова, 1
+                    [PHONE] => 8-495-527-92-65
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.75328
+                    [longitude] => 38.112517
+                )
+
+            [090104] => Array
+                (
+                    [ID] => 57082164
+                    [LPUCODE] => 090104
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Женская консультация (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Железнодорожный, ш. Саввинское, 6
+                    [PHONE] => 8-495-522-63-80
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.744756
+                    [longitude] => 38.012498
+                )
+
+            [0901032] => Array
+                (
+                    [ID] => 57082153
+                    [LPUCODE] => 0901032
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => КДО поликлиники №4 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Железнодорожный, ш. Саввинское, 4, корп.1
+                    [PHONE] => 8-498-698-21-20
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.743703
+                    [longitude] => 38.013807
+                )
+
+            [091006] => Array
+                (
+                    [ID] => 57803657
+                    [LPUCODE] => 091006
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] => 
+                    [NAME] => Кабинет врача общей практики поликлиники №3
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Ольгино, ул. Шестая, 5
+                    [PHONE] => +7(495) 522-87-59
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 0
+                    [latitude] => 55.739754
+                    [longitude] => 37.987162
+                )
+
+            [010111] => Array
+                (
+                    [ID] => 57081555
+                    [LPUCODE] => 010111
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Кожно-венерологический диспансер (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Заречная, 2
+                    [PHONE] => +7(495)523-54-19
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.813698
+                    [longitude] => 37.961738
+                )
+
+            [090601] => Array
+                (
+                    [ID] => 57082166
+                    [LPUCODE] => 090601
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Кожновенерологическое поликлиническое отделение (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Кучино, ул. Юннатов, 2
+                    [PHONE] => 8(495)527-72-85
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.748706
+                    [longitude] => 37.950677
+                )
+
+            [990501] => Array
+                (
+                    [ID] => 57103356
+                    [LPUCODE] => 990501
+                    [EMAIL] => guz_mood@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Московский областной онкологический диспансер
+                    [IP] => http://10.3.126.67:8002/MO_MOOD/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Карбышева, 6
+                    [PHONE] => (499) 404-31-47
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.78936
+                    [longitude] => 37.963828
+                )
+
+            [990901] => Array
+                (
+                    [ID] => 57101086
+                    [LPUCODE] => 990901
+                    [EMAIL] => mopc02@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Московский областной перинатальный центр
+                    [IP] => http://10.3.126.67:8002/MOPC/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ш. Энтузиастов, 12
+                    [PHONE] =>  +7 (495) 521-02-60
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.79224
+                    [longitude] => 37.922541
+                )
+
+            [901072] => Array
+                (
+                    [ID] => 57107882
+                    [LPUCODE] => 901072
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Наркологический диспансер (ул.Речная д.85)
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Кучино, ул. Речная, 85
+                    [PHONE] => 8 (495) 527-73-25
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.740167
+                    [longitude] => 37.956883
+                )
+
+            [0101013] => Array
+                (
+                    [ID] => 57081556
+                    [LPUCODE] => 0101013
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Ново-Милетская амбулатория (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,д. Пуршево, ул. Новослободская, 19
+                    [PHONE] => +7(495)527-41-14
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.722406
+                    [longitude] => 38.040445
+                )
+
+            [090105] => Array
+                (
+                    [ID] => 57082161
+                    [LPUCODE] => 090105
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Педиатрическое отделение детской поликлиники (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Железнодорожный, ул. Маяковского, 9, корп.1
+                    [PHONE] => 8-495-522-11-26
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.747168
+                    [longitude] => 38.001129
+                )
+
+            [090102] => Array
+                (
+                    [ID] => 57082145
+                    [LPUCODE] => 090102
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Поликлиника №1 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Кучино, ул. Юннатов, 2
+                    [PHONE] => 8-495-527-50-85
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.748953
+                    [longitude] => 37.950524
+                )
+
+            [090201] => Array
+                (
+                    [ID] => 57082147
+                    [LPUCODE] => 090201
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Поликлиника №2 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Саввино, ул. Детская, 11, корп.2
+                    [PHONE] => 8-495-527-53-03
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.729346
+                    [longitude] => 38.020206
+                )
+
+            [090106] => Array
+                (
+                    [ID] => 57082149
+                    [LPUCODE] => 090106
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Поликлиника №3 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Керамик, ул. Керамическая, 2, корп.1
+                    [PHONE] => 8-495-522-87-59
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.74411
+                    [longitude] => 37.97145
+                )
+
+            [090103] => Array
+                (
+                    [ID] => 57082151
+                    [LPUCODE] => 090103
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Поликлиника №4 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Железнодорожный, ул. Пролетарская, 3
+                    [PHONE] => 8-495-522-75-73
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.749013
+                    [longitude] => 38.010827
+                )
+
+            [0101011] => Array
+                (
+                    [ID] => 57081540
+                    [LPUCODE] => 0101011
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Поликлиническое отделение для взрослых (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, пр-кт. Ленина, 30
+                    [PHONE] => +7(495)529-66-39
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.796768
+                    [longitude] => 37.951653
+                )
+
+            [0101012] => Array
+                (
+                    [ID] => 57081541
+                    [LPUCODE] => 0101012
+                    [EMAIL] => erihka2007@rambler.ru
+                    [SITEURL] =>  
+                    [NAME] => Поликлиническое отделение для детей (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха, ул. Карла Маркса, 15
+                    [PHONE] => +7(495)521-25-43
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 1.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.801597
+                    [longitude] => 37.932243
+                )
+
+            [901015] => Array
+                (
+                    [ID] => 57102756
+                    [LPUCODE] => 901015
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Психиатрическое поликлиническое отделение
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Керамик, ул. Свободы, 12
+                    [PHONE] => 8-495-527-74-15
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.745297
+                    [longitude] => 37.973933
+                )
+
+            [0901061] => Array
+                (
+                    [ID] => 57082150
+                    [LPUCODE] => 0901061
+                    [EMAIL] => gel-dor.cgb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Травматологический пункт поликлиники №3 (ГБУЗ МО "ЦГБ")
+                    [IP] => http://10.3.126.67:8002/Zhelezn_CGB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,мкр. Керамик, ш. Носовихинское, 12
+                    [PHONE] => 8-495-522-05-53
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.749076
+                    [longitude] => 37.979001
+                )
+
+            [0101014] => Array
+                (
+                    [ID] => 57081557
+                    [LPUCODE] => 0101014
+                    [EMAIL] => mucrb@mail.ru
+                    [SITEURL] =>  
+                    [NAME] => Черновская амбулатория (ЦРБ)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,д. Черное, ул. Агрогородок, 8
+                    [PHONE] => +7(495)527-71-59
+                    [ACCESSIBILITY] => 0.0000
+                    [CHILDREN] => 0.0000
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.744638
+                    [longitude] => 38.048629
+                )
+
+            [01010116] => Array
+                (
+                    [ID] => 57670062
+                    [LPUCODE] => 01010116
+                    [EMAIL] => chamb@balcrb.ru
+                    [SITEURL] => 
+                    [NAME] => Черновская амбулатория (д.Федурново)
+                    [IP] => http://10.3.126.67:8002/Balashiha_CRB/webhltservice.asmx?wsdl
+                    [ADDRESS] => обл. Московская,г. Балашиха,д. Федурново, ул. Авиарембаза, 5
+                    [PHONE] => +7(498) 665-83-70
+                    [ACCESSIBILITY] => 1.0000
+                    [CHILDREN] => 
+                    [CITY] => 57074329
+                    [isWaitingList] => 1
+                    [isCallDocHome] => 1
+                    [latitude] => 55.756945
+                    [longitude] => 38.057561
+                )
+
+        )
+
+    [doctors] => Array
+        (
+            [3686] => Array
+                (
+                    [ID] => 3686
+                    [Family] => Чехонина
+                    [Name] => Ирина
+                    [Patronymic] => Вячеславовна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Аллергологи-иммунологи
+                    [Sepatation] => Аллерология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1088
+                )
+
+            [3696] => Array
+                (
+                    [ID] => 3696
+                    [Family] => Михалева
+                    [Name] => Елена
+                    [Patronymic] => Сергеевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Гастроэнтерологи
+                    [Sepatation] => Гастроэнтерология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1090
+                )
+
+            [1324] => Array
+                (
+                    [ID] => 1324
+                    [Family] => Сергеева
+                    [Name] => Татьяна
+                    [Patronymic] => Анатольевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Кардиологи
+                    [Sepatation] => Кардиология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1092
+                )
+
+            [1329] => Array
+                (
+                    [ID] => 1329
+                    [Family] => Тажибаев
+                    [Name] => Руслан
+                    [Patronymic] => Акынбекович
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Урологи
+                    [Sepatation] => Урология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1024
+                )
+
+            [2485] => Array
+                (
+                    [ID] => 2485
+                    [Family] => Жирнов
+                    [Name] => Иван
+                    [Patronymic] => Петрович
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Детские хирурги
+                    [Sepatation] => Хирургия детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1022
+                )
+
+            [3721] => Array
+                (
+                    [ID] => 3721
+                    [Family] => Исмагилова
+                    [Name] => Гузаля
+                    [Patronymic] => Баходыровна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Детские хирурги
+                    [Sepatation] => Хирургия детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1022
+                )
+
+            [1330] => Array
+                (
+                    [ID] => 1330
+                    [Family] => Смышляев
+                    [Name] => Сергей
+                    [Patronymic] => Николаевич
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Хирурги
+                    [Sepatation] => Хирургия детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1022
+                )
+
+            [1332] => Array
+                (
+                    [ID] => 1332
+                    [Family] => Чайка
+                    [Name] => Наталья
+                    [Patronymic] => Ивановна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Детские эндокринологи
+                    [Sepatation] => Эндокринология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1094
+                )
+
+            [1323] => Array
+                (
+                    [ID] => 1323
+                    [Family] => Бондаренко
+                    [Name] => Ираида
+                    [Patronymic] => Лукъяновна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Неврологи
+                    [Sepatation] => Неврология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1063
+                )
+
+            [3673] => Array
+                (
+                    [ID] => 3673
+                    [Family] => Киселева
+                    [Name] => Олеся
+                    [Patronymic] => Сергеевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Неврологи
+                    [Sepatation] => Неврология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1063
+                )
+
+            [3700] => Array
+                (
+                    [ID] => 3700
+                    [Family] => Шемякина
+                    [Name] => Татьяна
+                    [Patronymic] => Вячеславовна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Неврологи
+                    [Sepatation] => Неврология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1063
+                )
+
+            [1348] => Array
+                (
+                    [ID] => 1348
+                    [Family] => Овчаренко
+                    [Name] => Юрий
+                    [Patronymic] => Иванович
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Отоларингологи
+                    [Sepatation] => Отоларингология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1083
+                )
+
+            [1395] => Array
+                (
+                    [ID] => 1395
+                    [Family] => Бирюкова
+                    [Name] => Елена
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Офтальмологи
+                    [Sepatation] => Офтальмология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1085
+                )
+
+            [3648] => Array
+                (
+                    [ID] => 3648
+                    [Family] => Карпыч
+                    [Name] => Виктория
+                    [Patronymic] => Ростиславовна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Офтальмологи
+                    [Sepatation] => Офтальмология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1085
+                )
+
+            [1328] => Array
+                (
+                    [ID] => 1328
+                    [Family] => Абдуллаева
+                    [Name] => Марина
+                    [Patronymic] => Алимберовна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Психиатры
+                    [Sepatation] => Психиатрия детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1107
+                )
+
+            [1427] => Array
+                (
+                    [ID] => 1427
+                    [Family] => Буланов
+                    [Name] => Артем
+                    [Patronymic] => Владимирович
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Врачи
+                    [Sepatation] => Пульмонология детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1046
+                )
+
+            [3758] => Array
+                (
+                    [ID] => 3758
+                    [Family] => VKPD-CM 50
+                    [Name] => 129-1 Рентгенографический аппарат
+                    [Patronymic] => 
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => 
+                    [Sepatation] => 
+                    [lpuCode] => Рентген кабинет
+                    [typeId] => 0901052
+                )
+
+            [2500] => Array
+                (
+                    [ID] => 2500
+                    [Family] => Аминов
+                    [Name] => Муродбек
+                    [Patronymic] => Кенджаевич
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Травматологи-ортопеды
+                    [Sepatation] => Ортопедия детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1163
+                )
+
+            [3780] => Array
+                (
+                    [ID] => 3780
+                    [Family] => Бахтеев
+                    [Name] => Рашит
+                    [Patronymic] => Зякярьевич
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Врачи ортопеды
+                    [Sepatation] => Ортопедия детской поликлиники
+                    [lpuCode] => 0901052
+                    [typeId] => 1163
+                )
+
+            [3726] => Array
+                (
+                    [ID] => 3726
+                    [Family] => Амбарцумян
+                    [Name] => Аревик
+                    [Patronymic] => Генриковна
+                    [Uchastok] => 23(дп)
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3773] => Array
+                (
+                    [ID] => 3773
+                    [Family] => Виноградская
+                    [Name] => Алла
+                    [Patronymic] => Георгиевна
+                    [Uchastok] => 1 (дп)
+                    [Room] => 207
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3809] => Array
+                (
+                    [ID] => 3809
+                    [Family] => Данина
+                    [Name] => Юлия
+                    [Patronymic] => Степановна
+                    [Uchastok] => 16(дп), 24
+                    [Room] => 209
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [1372] => Array
+                (
+                    [ID] => 1372
+                    [Family] => Ефимова
+                    [Name] => Анастасия
+                    [Patronymic] => Сергеевна
+                    [Uchastok] => 8(д п)
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3644] => Array
+                (
+                    [ID] => 3644
+                    [Family] => Кольницкая
+                    [Name] => Светлана
+                    [Patronymic] => Борисовна
+                    [Uchastok] => 21, 22
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3666] => Array
+                (
+                    [ID] => 3666
+                    [Family] => Кусакина
+                    [Name] => Наталья
+                    [Patronymic] => Викторовна
+                    [Uchastok] => 5(дп), 7
+                    [Room] => 206
+                    [Post] => Участковые педиатры городских участков
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3738] => Array
+                (
+                    [ID] => 3738
+                    [Family] => Митяева
+                    [Name] => Татьяна
+                    [Patronymic] => Алексеевна
+                    [Uchastok] => 6 (дп), 11
+                    [Room] => 
+                    [Post] => Участковые педиатры городских участков
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3702] => Array
+                (
+                    [ID] => 3702
+                    [Family] => Мунаварова
+                    [Name] => Зиядахон
+                    [Patronymic] => Еровна
+                    [Uchastok] => 12(дп), 13(дп)
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3781] => Array
+                (
+                    [ID] => 3781
+                    [Family] => Овчинникова
+                    [Name] => Светлана
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 19
+                    [Room] => 201
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [1377] => Array
+                (
+                    [ID] => 1377
+                    [Family] => Рахмонова
+                    [Name] => Гульнора
+                    [Patronymic] => Ахмедовна
+                    [Uchastok] => 14(дп), 3 (дп)
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [1396] => Array
+                (
+                    [ID] => 1396
+                    [Family] => Розикова
+                    [Name] => Соадат
+                    [Patronymic] => Аслановна
+                    [Uchastok] => 4(дп), 17(дп)
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3803] => Array
+                (
+                    [ID] => 3803
+                    [Family] => Рябова
+                    [Name] => Анжелика
+                    [Patronymic] => Юрьевна
+                    [Uchastok] => 9(д п)
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3625] => Array
+                (
+                    [ID] => 3625
+                    [Family] => Салиева
+                    [Name] => Замира
+                    [Patronymic] => Закировна
+                    [Uchastok] => 18(дп), 10
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3770] => Array
+                (
+                    [ID] => 3770
+                    [Family] => Справка в один шаг
+                    [Name] => 
+                    [Patronymic] => 
+                    [Uchastok] => 
+                    [Room] => Справка в 
+                    [Post] => 
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3782] => Array
+                (
+                    [ID] => 3782
+                    [Family] => Шошина
+                    [Name] => Елена
+                    [Patronymic] => Викторовна
+                    [Uchastok] => 20
+                    [Room] => 107
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3793] => Array
+                (
+                    [ID] => 3793
+                    [Family] => Щекина
+                    [Name] => Екатерина
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 15(дп), 2 (дп)
+                    [Room] => 
+                    [Post] => Педиатры
+                    [Sepatation] => Педиатрия детской поликлиники
+                    [lpuCode] => 090105
+                    [typeId] => 1087
+                )
+
+            [3791] => Array
+                (
+                    [ID] => 3791
+                    [Family] => Стенина
+                    [Name] => Наталья
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Гастроэнтерологи
+                    [Sepatation] => Гастроэнтерология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1036
+                )
+
+            [3810] => Array
+                (
+                    [ID] => 3810
+                    [Family] => Алешина
+                    [Name] => Татьяна
+                    [Patronymic] => Дмитриевна
+                    [Uchastok] => 
+                    [Room] => 6
+                    [Post] => Кардиологи
+                    [Sepatation] => Кардиология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1040
+                )
+
+            [1399] => Array
+                (
+                    [ID] => 1399
+                    [Family] => Ерасова
+                    [Name] => Мария
+                    [Patronymic] => Петровна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Кардиологи
+                    [Sepatation] => Кардиология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1040
+                )
+
+            [3602] => Array
+                (
+                    [ID] => 3602
+                    [Family] => Борисова
+                    [Name] => Виктория
+                    [Patronymic] => Алексеевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Неврологи
+                    [Sepatation] => Неврология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1063
+                )
+
+            [3797] => Array
+                (
+                    [ID] => 3797
+                    [Family] => Ларькин
+                    [Name] => Сергей
+                    [Patronymic] => Станиславович
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Неврологи
+                    [Sepatation] => Неврология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1063
+                )
+
+            [1245] => Array
+                (
+                    [ID] => 1245
+                    [Family] => Шелковникова
+                    [Name] => Анна
+                    [Patronymic] => Владимировна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Неврологи
+                    [Sepatation] => Неврология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1063
+                )
+
+            [1393] => Array
+                (
+                    [ID] => 1393
+                    [Family] => Багиров
+                    [Name] => Руфат
+                    [Patronymic] => Искандерович
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Урологи
+                    [Sepatation] => Урология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1137
+                )
+
+            [1246] => Array
+                (
+                    [ID] => 1246
+                    [Family] => Беспалов
+                    [Name] => Николай
+                    [Patronymic] => Леонидович
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Урологи
+                    [Sepatation] => Урология поликлиники №4
+                    [lpuCode] => 0901032
+                    [typeId] => 1137
+                )
+
+            [1413] => Array
+                (
+                    [ID] => 1413
+                    [Family] => Батыр
+                    [Name] => Ольга
+                    [Patronymic] => Степановна
+                    [Uchastok] => 
+                    [Room] => 4
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [3787] => Array
+                (
+                    [ID] => 3787
+                    [Family] => Березина
+                    [Name] => Екатерина
+                    [Patronymic] => Александровна
+                    [Uchastok] => 
+                    [Room] => 5
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [3675] => Array
+                (
+                    [ID] => 3675
+                    [Family] => Бобылёва
+                    [Name] => Елена
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [1421] => Array
+                (
+                    [ID] => 1421
+                    [Family] => Дементьева
+                    [Name] => Ольга
+                    [Patronymic] => Викторовна
+                    [Uchastok] => 
+                    [Room] => 22
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [1412] => Array
+                (
+                    [ID] => 1412
+                    [Family] => Зверева
+                    [Name] => Елена
+                    [Patronymic] => Валентиновна
+                    [Uchastok] => 
+                    [Room] => 3
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [1415] => Array
+                (
+                    [ID] => 1415
+                    [Family] => Иревли
+                    [Name] => Лидия
+                    [Patronymic] => Никитична
+                    [Uchastok] => 
+                    [Room] => 16
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [1418] => Array
+                (
+                    [ID] => 1418
+                    [Family] => Котельникова
+                    [Name] => Валентина
+                    [Patronymic] => Алексеевна
+                    [Uchastok] => 
+                    [Room] => 22
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [2483] => Array
+                (
+                    [ID] => 2483
+                    [Family] => Осипова
+                    [Name] => Валентина
+                    [Patronymic] => Васильевна
+                    [Uchastok] => 
+                    [Room] => 20
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [3709] => Array
+                (
+                    [ID] => 3709
+                    [Family] => Тараканова
+                    [Name] => Мария
+                    [Patronymic] => Юрьевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Акушеры-гинекологи
+                    [Sepatation] => Акушерство и гинекология женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1011
+                )
+
+            [1419] => Array
+                (
+                    [ID] => 1419
+                    [Family] => Сорокина
+                    [Name] => Ирина
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 
+                    [Room] => 9
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия женской консультации
+                    [lpuCode] => 090104
+                    [typeId] => 1122
+                )
+
+            [1218] => Array
+                (
+                    [ID] => 1218
+                    [Family] => Кузнецова
+                    [Name] => Ирина
+                    [Patronymic] => Викторовна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Инфекционисты
+                    [Sepatation] => Инфекционные болезни Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1056
+                )
+
+            [3747] => Array
+                (
+                    [ID] => 3747
+                    [Family] => Lorad affiniti Маммографический аппарат
+                    [Name] => 
+                    [Patronymic] => 
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => 
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1058
+                )
+
+            [3640] => Array
+                (
+                    [ID] => 3640
+                    [Family] => Адамян
+                    [Name] => Ваган
+                    [Patronymic] => Ваникович
+                    [Uchastok] => 
+                    [Room] => 27
+                    [Post] => Онкологи
+                    [Sepatation] => Онкология поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1079
+                )
+
+            [1215] => Array
+                (
+                    [ID] => 1215
+                    [Family] => Титова
+                    [Name] => Ольга
+                    [Patronymic] => Владимировна
+                    [Uchastok] => 
+                    [Room] => 21
+                    [Post] => Отоларингологи
+                    [Sepatation] => Отоларингология Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1083
+                )
+
+            [3731] => Array
+                (
+                    [ID] => 3731
+                    [Family] => Кахарова
+                    [Name] => Истатхон
+                    [Patronymic] => Фархадовна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Офтальмологи
+                    [Sepatation] => Офтальмология Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1085
+                )
+
+            [1216] => Array
+                (
+                    [ID] => 1216
+                    [Family] => Порохина
+                    [Name] => Наталья
+                    [Patronymic] => Георгиевна
+                    [Uchastok] => 
+                    [Room] => 11
+                    [Post] => Офтальмологи
+                    [Sepatation] => Офтальмология Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1085
+                )
+
+            [3794] => Array
+                (
+                    [ID] => 3794
+                    [Family] => Власова
+                    [Name] => Виолетта
+                    [Patronymic] => Эдуардовна
+                    [Uchastok] => 5, 7, 9
+                    [Room] => 7
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [1459] => Array
+                (
+                    [ID] => 1459
+                    [Family] => Головкова
+                    [Name] => Лилия
+                    [Patronymic] => Александровна
+                    [Uchastok] => 3, 4, 8
+                    [Room] => 17
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [3734] => Array
+                (
+                    [ID] => 3734
+                    [Family] => Городецкая
+                    [Name] => Нина
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 6, 10
+                    [Room] => 26
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [2480] => Array
+                (
+                    [ID] => 2480
+                    [Family] => Исаева
+                    [Name] => Елена
+                    [Patronymic] => Васильевна
+                    [Uchastok] => 14, 15, 25
+                    [Room] => 17
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [3659] => Array
+                (
+                    [ID] => 3659
+                    [Family] => Кабардина
+                    [Name] => Евгения
+                    [Patronymic] => Валерьевна
+                    [Uchastok] => 1, 23, 27
+                    [Room] => 12
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [2530] => Array
+                (
+                    [ID] => 2530
+                    [Family] => Кузнецова
+                    [Name] => Татьяна
+                    [Patronymic] => Алексеевна
+                    [Uchastok] => 17, 24, 26
+                    [Room] => 4
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [1455] => Array
+                (
+                    [ID] => 1455
+                    [Family] => Муравьева
+                    [Name] => Алла
+                    [Patronymic] => Александровна
+                    [Uchastok] => 16, 19
+                    [Room] => 13
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [1457] => Array
+                (
+                    [ID] => 1457
+                    [Family] => Юрченкова
+                    [Name] => Тамара
+                    [Patronymic] => Максимовна
+                    [Uchastok] => 18, 20
+                    [Room] => 6
+                    [Post] => Терапевты
+                    [Sepatation] => Терапия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1122
+                )
+
+            [3812] => Array
+                (
+                    [ID] => 3812
+                    [Family] => Когинов
+                    [Name] => Валерий
+                    [Patronymic] => Геннадьевич
+                    [Uchastok] => 
+                    [Room] => 28
+                    [Post] => Хирурги
+                    [Sepatation] => Хирургия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1130
+                )
+
+            [1213] => Array
+                (
+                    [ID] => 1213
+                    [Family] => Янчев
+                    [Name] => Александр
+                    [Patronymic] => Иванович
+                    [Uchastok] => 
+                    [Room] => 28
+                    [Post] => Хирурги
+                    [Sepatation] => Хирургия Поликлиники №4
+                    [lpuCode] => 090103
+                    [typeId] => 1130
+                )
+
+            [1248] => Array
+                (
+                    [ID] => 1248
+                    [Family] => Исаева
+                    [Name] => Светлана
+                    [Patronymic] => Евгеньевна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Эндокринологи
+                    [Sepatation] => Эндокринология поликлиники №4 (ул. Юбилейная д.30)
+                    [lpuCode] => 090103
+                    [typeId] => 1141
+                )
+
+            [1394] => Array
+                (
+                    [ID] => 1394
+                    [Family] => Королева
+                    [Name] => Светлана
+                    [Patronymic] => Ивановна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Эндокринологи
+                    [Sepatation] => Эндокринология поликлиники №4 (ул. Юбилейная д.30)
+                    [lpuCode] => 090103
+                    [typeId] => 1141
+                )
+
+            [1249] => Array
+                (
+                    [ID] => 1249
+                    [Family] => Попова
+                    [Name] => Ольга
+                    [Patronymic] => Владимировна
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => Эндокринологи
+                    [Sepatation] => Эндокринология поликлиники №4 (ул. Юбилейная д.30)
+                    [lpuCode] => 090103
+                    [typeId] => 1141
+                )
+
+            [441] => Array
+                (
+                    [ID] => 441
+                    [Family] => Тарасова
+                    [Name] => Наталья
+                    [Patronymic] => Станиславовна
+                    [Uchastok] => 
+                    [Room] => 10
+                    [Post] => Стоматологи-ортодонты
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1145
+                )
+
+            [379] => Array
+                (
+                    [ID] => 379
+                    [Family] => Трухачев
+                    [Name] => Алексей
+                    [Patronymic] => Николаевич
+                    [Uchastok] => 
+                    [Room] => 10
+                    [Post] => Стоматологи-ортодонты
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1145
+                )
+
+            [440] => Array
+                (
+                    [ID] => 440
+                    [Family] => BlueX IntraOs 70 Дентальный рентгеновский аппарат
+                    [Name] => 
+                    [Patronymic] => 
+                    [Uchastok] => 
+                    [Room] => 
+                    [Post] => 
+                    [Sepatation] => Рентгенологический кабинет
+                    [lpuCode] => 090401
+                    [typeId] => 1168
+                )
+
+            [386] => Array
+                (
+                    [ID] => 386
+                    [Family] => Бурцева
+                    [Name] => Наталья
+                    [Patronymic] => Владимировна
+                    [Uchastok] => 
+                    [Room] => 11
+                    [Post] => Стоматологи детские
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1146
+                )
+
+            [437] => Array
+                (
+                    [ID] => 437
+                    [Family] => Воейкова
+                    [Name] => Ольга
+                    [Patronymic] => Вячеславовна
+                    [Uchastok] => 
+                    [Room] => 11
+                    [Post] => Стоматологи детские
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1146
+                )
+
+            [381] => Array
+                (
+                    [ID] => 381
+                    [Family] => Голубицкая
+                    [Name] => Елена
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 
+                    [Room] => 11
+                    [Post] => Зубной врач
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1146
+                )
+
+            [384] => Array
+                (
+                    [ID] => 384
+                    [Family] => Закидкина
+                    [Name] => Марина
+                    [Patronymic] => Юрьевна
+                    [Uchastok] => 
+                    [Room] => 11
+                    [Post] => Стоматологи детские
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1146
+                )
+
+            [380] => Array
+                (
+                    [ID] => 380
+                    [Family] => Лашенко
+                    [Name] => Антонина
+                    [Patronymic] => Евгеньевна
+                    [Uchastok] => 
+                    [Room] => 11
+                    [Post] => Зубной врач
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1146
+                )
+
+            [442] => Array
+                (
+                    [ID] => 442
+                    [Family] => МЕДОСМОТР, ОКАЗАНИЕ НЕОТЛОЖНОЙ  ПОМОЩИ 
+                    [Name] => 
+                    [Patronymic] => 
+                    [Uchastok] => 
+                    [Room] => СМОТРОВОЙ 
+                    [Post] => 
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1146
+                )
+
+            [395] => Array
+                (
+                    [ID] => 395
+                    [Family] => Романишина
+                    [Name] => Галина
+                    [Patronymic] => Вячеславовна
+                    [Uchastok] => 
+                    [Room] => 11
+                    [Post] => Стоматологи детские
+                    [Sepatation] => Стоматологическое отделение №2
+                    [lpuCode] => 090401
+                    [typeId] => 1146
+                )
+
+            [423] => Array
+                (
+                    [ID] => 423
+                    [Family] => Адаменко
+                    [Name] => Наталия
+                    [Patronymic] => Александровна
+                    [Uchastok] => 
+                    [Room] => 8
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [372] => Array
+                (
+                    [ID] => 372
+                    [Family] => Герелевич
+                    [Name] => Наталья
+                    [Patronymic] => Викторовна
+                    [Uchastok] => 
+                    [Room] => 3
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [403] => Array
+                (
+                    [ID] => 403
+                    [Family] => Гурова
+                    [Name] => Татьяна
+                    [Patronymic] => Алексеевна
+                    [Uchastok] => 
+                    [Room] => 2
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [409] => Array
+                (
+                    [ID] => 409
+                    [Family] => Ежова
+                    [Name] => Мария
+                    [Patronymic] => Витальевна
+                    [Uchastok] => 
+                    [Room] => 7
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [373] => Array
+                (
+                    [ID] => 373
+                    [Family] => Еникеева
+                    [Name] => Ксения
+                    [Patronymic] => Вячеславовна
+                    [Uchastok] => 
+                    [Room] => 3
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [401] => Array
+                (
+                    [ID] => 401
+                    [Family] => Заставная
+                    [Name] => Елена
+                    [Patronymic] => Юрьевна
+                    [Uchastok] => 
+                    [Room] => 8
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [402] => Array
+                (
+                    [ID] => 402
+                    [Family] => Иващенко
+                    [Name] => Людмила
+                    [Patronymic] => Валентиновна
+                    [Uchastok] => 
+                    [Room] => 7
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [400] => Array
+                (
+                    [ID] => 400
+                    [Family] => Лялина
+                    [Name] => Марина
+                    [Patronymic] => Михайловна
+                    [Uchastok] => 
+                    [Room] => 7
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [443] => Array
+                (
+                    [ID] => 443
+                    [Family] => МЕДОСМОТР, ОКАЗАНИЕ НЕОТЛОЖНОЙ ПОМОЩИ
+                    [Name] => 
+                    [Patronymic] => 
+                    [Uchastok] => 
+                    [Room] => СМОТРОВОЙ 
+                    [Post] => 
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [434] => Array
+                (
+                    [ID] => 434
+                    [Family] => Няненкова
+                    [Name] => Ольга
+                    [Patronymic] => Николаевна
+                    [Uchastok] => 
+                    [Room] => 2
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [398] => Array
+                (
+                    [ID] => 398
+                    [Family] => Пародонтологфоминская
+                    [Name] => Наталья
+                    [Patronymic] => Ивановна
+                    [Uchastok] => 
+                    [Room] => 3
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [361] => Array
+                (
+                    [ID] => 361
+                    [Family] => Потягова
+                    [Name] => Любовь
+                    [Patronymic] => Михайловна
+                    [Uchastok] => 
+                    [Room] => 2
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [365] => Array
+                (
+                    [ID] => 365
+                    [Family] => Сизова
+                    [Name] => Татьяна
+                    [Patronymic] => Васильевна
+                    [Uchastok] => 
+                    [Room] => 2
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [357] => Array
+                (
+                    [ID] => 357
+                    [Family] => Степаненко
+                    [Name] => Виктория
+                    [Patronymic] => Витальевна
+                    [Uchastok] => 
+                    [Room] => 3
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [404] => Array
+                (
+                    [ID] => 404
+                    [Family] => Субботина
+                    [Name] => Ольга
+                    [Patronymic] => Вячеславовна
+                    [Uchastok] => 
+                    [Room] => 3
+                    [Post] => Стоматологи-терапевты
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1148
+                )
+
+            [344] => Array
+                (
+                    [ID] => 344
+                    [Family] => Алексеева
+                    [Name] => Татьяна
+                    [Patronymic] => Евгеньевна
+                    [Uchastok] => 
+                    [Room] => 5
+                    [Post] => Стоматологи-хирурги
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1149
+                )
+
+            [439] => Array
+                (
+                    [ID] => 439
+                    [Family] => Гулиев
+                    [Name] => Эльшан
+                    [Patronymic] => Мамедгулович
+                    [Uchastok] => 
+                    [Room] => 5
+                    [Post] => Стоматологи-хирурги
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1149
+                )
+
+            [393] => Array
+                (
+                    [ID] => 393
+                    [Family] => Гуров
+                    [Name] => Валерий
+                    [Patronymic] => Иванович
+                    [Uchastok] => 
+                    [Room] => 5
+                    [Post] => Стоматологи-хирурги
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1149
+                )
+
+            [343] => Array
+                (
+                    [ID] => 343
+                    [Family] => Соколова
+                    [Name] => Наталья
+                    [Patronymic] => Юрьевна
+                    [Uchastok] => 
+                    [Room] => 5
+                    [Post] => Стоматологи-хирурги
+                    [Sepatation] => Стоматологическое отделение 1 (лечебно-хирургическое)
+                    [lpuCode] => 090401
+                    [typeId] => 1149
+                )
+
+        )
+
+    [login] => Array
+        (
+            [STATUS] => AUTHORIZED
+            [last_authorized] => 1519704046
+            [success] => 1
+            [count_items] => 16
+        )
+
+)
+Finish and complete!
